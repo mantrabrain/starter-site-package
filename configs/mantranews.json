@@ -30,1404 +30,1397 @@
       "pagebuilder": [
         "default"
       ],
-      "plugins_list":
-    },
-    "core_options": {
-      "blogname": "Mantranews"
-    },
-    "widgets_data_update": {
-      "dropdown_categories": {
-        "category": {
-          "mantranews_featured_posts_slider_widget": {
-            "4": {
-              "category": "Latest"
-            }
-          },
-          "mantranews_highlighted_posts_widget": {
-            "3": {
-              "category": "FEATURED"
-            }
-          },
-          "mantranews_featured_posts_widget": {
-            "3": {
-              "category": "Health"
+      "core_options": {
+        "blogname": "Mantranews"
+      },
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "category": {
+            "mantranews_featured_posts_slider_widget": {
+              "4": {
+                "category": "Latest"
+              }
             },
-            "4": {
-              "category": "Technology"
-            }
-          },
-          "mantranews_featured_posts_vertical_widget": {
-            "3": {
-              "category": "Fashion"
+            "mantranews_highlighted_posts_widget": {
+              "3": {
+                "category": "FEATURED"
+              }
             },
-            "4": {
-              "category": "Sports"
+            "mantranews_featured_posts_widget": {
+              "3": {
+                "category": "Health"
+              },
+              "4": {
+                "category": "Technology"
+              }
             },
-            "5": {
-              "category": "General"
+            "mantranews_featured_posts_vertical_widget": {
+              "3": {
+                "category": "Fashion"
+              },
+              "4": {
+                "category": "Sports"
+              },
+              "5": {
+                "category": "General"
+              }
             }
           }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary"
         }
       }
     },
-    "customizer_data_update": {
-      "nav_menu_locations": {
-        "primary": "Primary"
-      }
-    }
-  },
-  "mantranews-beauty-blog": {
-    "title": "Mantranews Beauty Blog",
-    "preview": "https://demo.mantrabrain.com/mantranews-beauty-blog/",
-    "description": "You can use this Mantranews demo for your Beauty Blogs.",
-    "template": [
-      "mantranews",
-      "mantranews-pro"
-    ],
-    "category": [
-      "all",
-      "blog"
-    ],
-    "pagebuilder": [
-      "elementor"
-    ],
-    "plugins_list": {
-      "elementor": {
-        "name": "Elementor",
-        "slug": "elementor/elementor.php"
-      }
-    },
-    "core_options": {
-      "blogname": "Mantranews Beauty Blog",
-      "page_on_front": "Home"
-    },
-    "elementor_data_update": {
-      "home": {
-        "post_title": "Home",
-        "data_update": {
-          "category": {
-            "Mantranews-Posts-Grid-3": {
-              "10": "News"
-            },
-            "Mantranews-Posts-Block-2": {
-              "5": "Hair",
-              "6": "Fashion",
-              "8": "Health",
-              "9": "Eye Make up"
-            },
-            "Mantranews-Posts-Block-6": {
-              "10": "News"
-            }
-          }
+    "mantranews-beauty-blog": {
+      "title": "Mantranews Beauty Blog",
+      "preview": "https://demo.mantrabrain.com/mantranews-beauty-blog/",
+      "description": "You can use this Mantranews demo for your Beauty Blogs.",
+      "template": [
+        "mantranews",
+        "mantranews-pro"
+      ],
+      "category": [
+        "all",
+        "blog"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
         }
       },
-      "make-up": {
-        "post_title": "Make Up",
-        "data_update": {
-          "category": {
-            "Mantranews-Posts-Block-2": {
-              "9": "Eye Make up"
-            },
-            "Mantranews-Posts-Block-6": {
-              "2": "Food &amp; Drinks",
-              "4": "Product",
-              "7": "Beauty Tips"
-            }
-          }
-        }
+      "core_options": {
+        "blogname": "Mantranews Beauty Blog",
+        "page_on_front": "Home"
       },
-      "hair": {
-        "post_title": "Hair",
-        "data_update": {
-          "category": {
-            "Mantranews-Posts-Block-2": {
-              "5": "Hair"
-            },
-            "Mantranews-Posts-Block-6": {
-              "2": "Food &amp; Drinks",
-              "4": "Product",
-              "7": "Beauty Tips"
+      "elementor_data_update": {
+        "home": {
+          "post_title": "Home",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Grid-3": {
+                "10": "News"
+              },
+              "Mantranews-Posts-Block-2": {
+                "5": "Hair",
+                "6": "Fashion",
+                "8": "Health",
+                "9": "Eye Make up"
+              },
+              "Mantranews-Posts-Block-6": {
+                "10": "News"
+              }
             }
-          }
-        }
-      },
-      "products": {
-        "post_title": "Products",
-        "data_update": {
-          "category": {
-            "Mantranews-Posts-Block-2": {
-              "4": "Product"
-            },
-            "Mantranews-Posts-Block-6": {
-              "2": "Food &amp; Drinks",
-              "4": "Product",
-              "7": "Beauty Tips"
-            }
-          }
-        }
-      },
-      "lifestyle": {
-        "post_title": "Lifestyle",
-        "data_update": {
-          "category": {
-            "Mantranews-Posts-Block-6": {
-              "4": "Product",
-              "2": "Food &amp; Drinks",
-              "7": "Beauty Tips"
-            }
-          }
-        }
-      },
-      "food": {
-        "post_title": "Food",
-        "data_update": {
-          "category": {
-            "Mantranews-Posts-Block-2": {
-              "2": "Food &amp; Drinks"
-            },
-            "Mantranews-Posts-Block-6": {
-              "4": "Product",
-              "2": "Food &amp; Drinks",
-              "7": "Beauty Tips"
-            }
-          }
-        }
-      },
-      "health": {
-        "post_title": "Health",
-        "data_update": {
-          "category": {
-            "Mantranews-Posts-Block-2": {
-              "8": "Health"
-            },
-            "Mantranews-Posts-Block-6": {
-              "2": "Food &amp; Drinks",
-              "4": "Product",
-              "7": "Beauty Tips"
-            }
-          }
-        }
-      },
-      "fashion": {
-        "post_title": "Fashion",
-        "data_update": {
-          "category": {
-            "Mantranews-Posts-Block-2": {
-              "6": "Fashion"
-            },
-            "Mantranews-Posts-Block-6": {
-              "2": "Food &amp; Drinks",
-              "4": "Product",
-              "7": "Beauty Tips"
-            }
-          }
-        }
-      },
-      "tips": {
-        "post_title": "Tips",
-        "data_update": {
-          "category": {
-            "Mantranews-Posts-Block-2": {
-              "7": "Beauty Tips"
-            },
-            "Mantranews-Posts-Block-6": {
-              "4": "Product",
-              "2": "Food &amp; Drinks",
-              "7": "Beauty Tips"
-            }
-          }
-        }
-      },
-      "news": {
-        "post_title": "News",
-        "data_update": {
-          "category": {
-            "Mantranews-Posts-Block-2": {
-              "10": "News"
-            },
-            "Mantranews-Posts-Block-6": {
-              "2": "Food &amp; Drinks",
-              "7": "Beauty Tips"
-            }
-          }
-        }
-      }
-    },
-    "customizer_data_update": {
-      "nav_menu_locations": {
-        "primary": "Primary"
-      }
-    }
-  },
-  "mantranews-business-magazine": {
-    "title": "Mantranews Business Magazine",
-    "preview": "https://demo.mantrabrain.com/mantranews-business-magazine/",
-    "description": "Grow your business through blogs with this Mantranews demo.",
-    "template": [
-      "mantranews",
-      "mantranews-pro"
-    ],
-    "category": [
-      "all",
-      "news",
-      "others"
-    ],
-    "pagebuilder": [
-      "elementor"
-    ],
-    "plugins_list": {
-      "elementor": {
-        "name": "Elementor",
-        "slug": "elementor/elementor.php"
-      }
-    },
-    "core_options": {
-      "blogname": "Mantranews Business Magazine",
-      "page_on_front": "Home"
-    },
-    "elementor_data_update": {
-      "home": {
-        "post_title": "Home",
-        "data_update": {
-          "category": {
-            "Mantranews-Posts-Grid-5": {
-              "6": "Employment"
-            },
-            "Mantranews-Posts-Block-1": {
-              "5": "Corporate"
-            },
-            "Mantranews-Posts-Block-4": {
-              "8": "Money"
-            },
-            "Mantranews-Posts-Block-6": {
-              "4": "Investments"
-            },
-            "Mantranews-Posts-Block-9": {
-              "9": "Market"
-            }
-          }
-        }
-      },
-      "corporate": {
-        "post_title": "Corporate",
-        "data_update": {
-          "category": {
-            "Mantranews-Posts-Block-2": {
-              "5": "Corporate"
-            }
-          }
-        }
-      },
-      "global-trade": {
-        "post_title": "Global Trade",
-        "data_update": {
-          "category": {
-            "Mantranews-Posts-Block-2": {
-              "14": "Global Trade"
-            }
-          }
-        }
-      },
-      "companies": {
-        "post_title": "Companies",
-        "data_update": {
-          "category": {
-            "Mantranews-Posts-Block-2": {
-              "15": "Companies"
-            }
-          }
-        }
-      },
-      "entrepreneurship": {
-        "post_title": "Entrepreneurship",
-        "data_update": {
-          "category": {
-            "Mantranews-Posts-Block-2": {
-              "16": "Entrepreneurship"
-            }
-          }
-        }
-      },
-      "employment": {
-        "post_title": "Employment",
-        "data_update": {
-          "category": {
-            "Mantranews-Posts-Block-2": {
-              "6": "Employment"
-            }
-          }
-        }
-      },
-      "investment": {
-        "post_title": "Investment",
-        "data_update": {
-          "category": {
-            "Mantranews-Posts-Block-2": {
-              "4": "Investments"
-            }
-          }
-        }
-      },
-      "market": {
-        "post_title": "Market",
-        "data_update": {
-          "category": {
-            "Mantranews-Posts-Block-2": {
-              "9": "Market"
-            }
-          }
-        }
-      },
-      "money": {
-        "post_title": "Money",
-        "data_update": {
-          "category": {
-            "Mantranews-Posts-Block-2": {
-              "8": "Money"
-            }
-          }
-        }
-      }
-    },
-    "customizer_data_update": {
-      "nav_menu_locations": {
-        "primary": "Primary"
-      }
-    }
-  },
-  "mantranews-dark": {
-    "title": "Mantranews Dark",
-    "preview": "https://demo.mantrabrain.com/mantranews-dark/",
-    "description": "Use this Mantranews demo to display news in your online magazine.",
-    "template": [
-      "mantranews",
-      "mantranews-pro"
-    ],
-    "category": [
-      "all",
-      "news"
-    ],
-    "pagebuilder": [
-      "elementor"
-    ],
-    "plugins_list": {
-      "elementor": {
-        "name": "Elementor",
-        "slug": "elementor/elementor.php"
-      }
-    },
-    "core_options": {
-      "blogname": "Mantranews Dark",
-      "page_on_front": "Home"
-    },
-    "elementor_data_update": {
-      "home": {
-        "post_title": "Home",
-        "data_update": {
-          "category": {
-            "Mantranews-Posts-Block-1": {
-              "9": "Fashion",
-              "11": "News"
-            },
-            "Mantranews-Posts-Block-4": {
-              "10": "Food &amp; Health"
-            },
-            "Mantranews-Posts-Block-6": {
-              "4": "Travel",
-              "6": "World",
-              "7": "Technology"
-            },
-            "Mantranews-Posts-Grid-5": {
-              "8": "Entertainment"
-            }
-          }
-        }
-      },
-      "entertainment": {
-        "post_title": "Entertainment",
-        "data_update": {
-          "category": {
-            "Mantranews-Posts-Block-2": {
-              "8": "Entertainment"
-            },
-            "Mantranews-Posts-Block-4": {
-              "8": "Entertainment"
-            }
-          }
-        }
-      },
-      "fashion": {
-        "post_title": "Fashion",
-        "data_update": {
-          "category": {
-            "Mantranews-Posts-Block-2": {
-              "9": "Fashion"
-            },
-            "Mantranews-Posts-Block-4": {
-              "9": "Fashion"
-            }
-          }
-        }
-      },
-      "food-health": {
-        "post_title": "Food & Health",
-        "data_update": {
-          "category": {
-            "Mantranews-Posts-Block-2": {
-              "10": "Food &amp; Health"
-            },
-            "Mantranews-Posts-Block-4": {
-              "10": "Food &amp; Health"
-            }
-          }
-        }
-      },
-      "news": {
-        "post_title": "News",
-        "data_update": {
-          "category": {
-            "Mantranews-Posts-Block-2": {
-              "2": "Politics",
-              "3": "Sports",
-              "6": "World"
-            }
-          }
-        }
-      },
-      "politics": {
-        "post_title": "Politics",
-        "data_update": {
-          "category": {
-            "Mantranews-Posts-Block-2": {
-              "2": "Politics"
-            },
-            "Mantranews-Posts-Block-4": {
-              "2": "Politics"
-            }
-          }
-        }
-      },
-      "sports": {
-        "post_title": "Sports",
-        "data_update": {
-          "category": {
-            "Mantranews-Posts-Block-2": {
-              "3": "Sports"
-            },
-            "Mantranews-Posts-Block-4": {
-              "3": "Sports"
-            }
-          }
-        }
-      },
-      "technology": {
-        "post_title": "Technology",
-        "data_update": {
-          "category": {
-            "Mantranews-Posts-Block-2": {
-              "7": "Technology"
-            },
-            "Mantranews-Posts-Block-4": {
-              "7": "Technology"
-            }
-          }
-        }
-      },
-      "travel": {
-        "post_title": "Travel",
-        "data_update": {
-          "category": {
-            "Mantranews-Posts-Block-2": {
-              "4": "Travel"
-            },
-            "Mantranews-Posts-Block-4": {
-              "4": "Travel"
-            }
-          }
-        }
-      },
-      "world": {
-        "post_title": "World",
-        "data_update": {
-          "category": {
-            "Mantranews-Posts-Block-2": {
-              "6": "World"
-            },
-            "Mantranews-Posts-Block-4": {
-              "6": "World"
-            }
-          }
-        }
-      }
-    },
-    "customizer_data_update": {
-      "nav_menu_locations": {
-        "primary": "Primary"
-      }
-    }
-  },
-  "mantranews-pro": {
-    "isPro": true,
-    "title": "Mantranews Pro",
-    "preview": "https://demo.mantrabrain.com/mantranews-pro/",
-    "description": "The premium version of the default Mantranews demo for your online magazine.",
-    "template": [
-      "mantranews-pro"
-    ],
-    "category": [
-      "all",
-      "news",
-      "blog"
-    ],
-    "pagebuilder": [
-      "default"
-    ],
-    "plugins_list":
-  },
-  "core_options": {
-    "blogname": "Mantranews Pro"
-  },
-  "widgets_data_update": {
-    "dropdown_categories": {
-      "category": {
-        "mantranews_featured_posts_slider_widget": {
-          "2": {
-            "category": "Research"
           }
         },
-        "mantranews_highlighted_posts_widget": {
-          "2": {
-            "category": "Technology"
+        "make-up": {
+          "post_title": "Make Up",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-2": {
+                "9": "Eye Make up"
+              },
+              "Mantranews-Posts-Block-6": {
+                "2": "Food &amp; Drinks",
+                "4": "Product",
+                "7": "Beauty Tips"
+              }
+            }
           }
         },
-        "mantranews_featured_posts_widget": {
-          "2": {
-            "category": "Business"
+        "hair": {
+          "post_title": "Hair",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-2": {
+                "5": "Hair"
+              },
+              "Mantranews-Posts-Block-6": {
+                "2": "Food &amp; Drinks",
+                "4": "Product",
+                "7": "Beauty Tips"
+              }
+            }
           }
         },
-        "mantranews_featured_posts_vertical_widget": {
-          "2": {
-            "category": "Health"
-          },
-          "3": {
-            "category": "Fashion"
-          },
-          "4": {
-            "category": "Politics"
-          },
-          "9": {
-            "category": "Technology"
-          },
-          "10": {
-            "category": "Travel"
+        "products": {
+          "post_title": "Products",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-2": {
+                "4": "Product"
+              },
+              "Mantranews-Posts-Block-6": {
+                "2": "Food &amp; Drinks",
+                "4": "Product",
+                "7": "Beauty Tips"
+              }
+            }
           }
         },
-        "mantranews_default_news_widget": {
-          "2": {
-            "category": "Adventure"
+        "lifestyle": {
+          "post_title": "Lifestyle",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-6": {
+                "4": "Product",
+                "2": "Food &amp; Drinks",
+                "7": "Beauty Tips"
+              }
+            }
           }
         },
-        "mantranews_ticker_news_widget": {
-          "2": {
-            "category": "Travel"
+        "food": {
+          "post_title": "Food",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-2": {
+                "2": "Food &amp; Drinks"
+              },
+              "Mantranews-Posts-Block-6": {
+                "4": "Product",
+                "2": "Food &amp; Drinks",
+                "7": "Beauty Tips"
+              }
+            }
           }
         },
-        "mantranews_slider_news_widget": {
-          "7": {
-            "category": "Sports"
+        "health": {
+          "post_title": "Health",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-2": {
+                "8": "Health"
+              },
+              "Mantranews-Posts-Block-6": {
+                "2": "Food &amp; Drinks",
+                "4": "Product",
+                "7": "Beauty Tips"
+              }
+            }
           }
         },
-        "mantranews_featured_posts_small_thumbnails": {
-          "2": {
-            "category": "Technology"
+        "fashion": {
+          "post_title": "Fashion",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-2": {
+                "6": "Fashion"
+              },
+              "Mantranews-Posts-Block-6": {
+                "2": "Food &amp; Drinks",
+                "4": "Product",
+                "7": "Beauty Tips"
+              }
+            }
+          }
+        },
+        "tips": {
+          "post_title": "Tips",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-2": {
+                "7": "Beauty Tips"
+              },
+              "Mantranews-Posts-Block-6": {
+                "4": "Product",
+                "2": "Food &amp; Drinks",
+                "7": "Beauty Tips"
+              }
+            }
+          }
+        },
+        "news": {
+          "post_title": "News",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-2": {
+                "10": "News"
+              },
+              "Mantranews-Posts-Block-6": {
+                "2": "Food &amp; Drinks",
+                "7": "Beauty Tips"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary"
+        }
+      }
+    },
+    "mantranews-business-magazine": {
+      "title": "Mantranews Business Magazine",
+      "preview": "https://demo.mantrabrain.com/mantranews-business-magazine/",
+      "description": "Grow your business through blogs with this Mantranews demo.",
+      "template": [
+        "mantranews",
+        "mantranews-pro"
+      ],
+      "category": [
+        "all",
+        "news",
+        "others"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Mantranews Business Magazine",
+        "page_on_front": "Home"
+      },
+      "elementor_data_update": {
+        "home": {
+          "post_title": "Home",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Grid-5": {
+                "6": "Employment"
+              },
+              "Mantranews-Posts-Block-1": {
+                "5": "Corporate"
+              },
+              "Mantranews-Posts-Block-4": {
+                "8": "Money"
+              },
+              "Mantranews-Posts-Block-6": {
+                "4": "Investments"
+              },
+              "Mantranews-Posts-Block-9": {
+                "9": "Market"
+              }
+            }
+          }
+        },
+        "corporate": {
+          "post_title": "Corporate",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-2": {
+                "5": "Corporate"
+              }
+            }
+          }
+        },
+        "global-trade": {
+          "post_title": "Global Trade",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-2": {
+                "14": "Global Trade"
+              }
+            }
+          }
+        },
+        "companies": {
+          "post_title": "Companies",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-2": {
+                "15": "Companies"
+              }
+            }
+          }
+        },
+        "entrepreneurship": {
+          "post_title": "Entrepreneurship",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-2": {
+                "16": "Entrepreneurship"
+              }
+            }
+          }
+        },
+        "employment": {
+          "post_title": "Employment",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-2": {
+                "6": "Employment"
+              }
+            }
+          }
+        },
+        "investment": {
+          "post_title": "Investment",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-2": {
+                "4": "Investments"
+              }
+            }
+          }
+        },
+        "market": {
+          "post_title": "Market",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-2": {
+                "9": "Market"
+              }
+            }
+          }
+        },
+        "money": {
+          "post_title": "Money",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-2": {
+                "8": "Money"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary"
+        }
+      }
+    },
+    "mantranews-dark": {
+      "title": "Mantranews Dark",
+      "preview": "https://demo.mantrabrain.com/mantranews-dark/",
+      "description": "Use this Mantranews demo to display news in your online magazine.",
+      "template": [
+        "mantranews",
+        "mantranews-pro"
+      ],
+      "category": [
+        "all",
+        "news"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Mantranews Dark",
+        "page_on_front": "Home"
+      },
+      "elementor_data_update": {
+        "home": {
+          "post_title": "Home",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-1": {
+                "9": "Fashion",
+                "11": "News"
+              },
+              "Mantranews-Posts-Block-4": {
+                "10": "Food &amp; Health"
+              },
+              "Mantranews-Posts-Block-6": {
+                "4": "Travel",
+                "6": "World",
+                "7": "Technology"
+              },
+              "Mantranews-Posts-Grid-5": {
+                "8": "Entertainment"
+              }
+            }
+          }
+        },
+        "entertainment": {
+          "post_title": "Entertainment",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-2": {
+                "8": "Entertainment"
+              },
+              "Mantranews-Posts-Block-4": {
+                "8": "Entertainment"
+              }
+            }
+          }
+        },
+        "fashion": {
+          "post_title": "Fashion",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-2": {
+                "9": "Fashion"
+              },
+              "Mantranews-Posts-Block-4": {
+                "9": "Fashion"
+              }
+            }
+          }
+        },
+        "food-health": {
+          "post_title": "Food & Health",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-2": {
+                "10": "Food &amp; Health"
+              },
+              "Mantranews-Posts-Block-4": {
+                "10": "Food &amp; Health"
+              }
+            }
+          }
+        },
+        "news": {
+          "post_title": "News",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-2": {
+                "2": "Politics",
+                "3": "Sports",
+                "6": "World"
+              }
+            }
+          }
+        },
+        "politics": {
+          "post_title": "Politics",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-2": {
+                "2": "Politics"
+              },
+              "Mantranews-Posts-Block-4": {
+                "2": "Politics"
+              }
+            }
+          }
+        },
+        "sports": {
+          "post_title": "Sports",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-2": {
+                "3": "Sports"
+              },
+              "Mantranews-Posts-Block-4": {
+                "3": "Sports"
+              }
+            }
+          }
+        },
+        "technology": {
+          "post_title": "Technology",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-2": {
+                "7": "Technology"
+              },
+              "Mantranews-Posts-Block-4": {
+                "7": "Technology"
+              }
+            }
+          }
+        },
+        "travel": {
+          "post_title": "Travel",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-2": {
+                "4": "Travel"
+              },
+              "Mantranews-Posts-Block-4": {
+                "4": "Travel"
+              }
+            }
+          }
+        },
+        "world": {
+          "post_title": "World",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-2": {
+                "6": "World"
+              },
+              "Mantranews-Posts-Block-4": {
+                "6": "World"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary"
+        }
+      }
+    },
+    "mantranews-pro": {
+      "isPro": true,
+      "title": "Mantranews Pro",
+      "preview": "https://demo.mantrabrain.com/mantranews-pro/",
+      "description": "The premium version of the default Mantranews demo for your online magazine.",
+      "template": [
+        "mantranews-pro"
+      ],
+      "category": [
+        "all",
+        "news",
+        "blog"
+      ],
+      "pagebuilder": [
+        "default"
+      ],
+      "core_options": {
+        "blogname": "Mantranews Pro"
+      },
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "category": {
+            "mantranews_featured_posts_slider_widget": {
+              "2": {
+                "category": "Research"
+              }
+            },
+            "mantranews_highlighted_posts_widget": {
+              "2": {
+                "category": "Technology"
+              }
+            },
+            "mantranews_featured_posts_widget": {
+              "2": {
+                "category": "Business"
+              }
+            },
+            "mantranews_featured_posts_vertical_widget": {
+              "2": {
+                "category": "Health"
+              },
+              "3": {
+                "category": "Fashion"
+              },
+              "4": {
+                "category": "Politics"
+              },
+              "9": {
+                "category": "Technology"
+              },
+              "10": {
+                "category": "Travel"
+              }
+            },
+            "mantranews_default_news_widget": {
+              "2": {
+                "category": "Adventure"
+              }
+            },
+            "mantranews_ticker_news_widget": {
+              "2": {
+                "category": "Travel"
+              }
+            },
+            "mantranews_slider_news_widget": {
+              "7": {
+                "category": "Sports"
+              }
+            },
+            "mantranews_featured_posts_small_thumbnails": {
+              "2": {
+                "category": "Technology"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary",
+          "footer": "Footer"
+        }
+      }
+    },
+    "mantranews-pro-fashion": {
+      "isPro": true,
+      "title": "Mantranews Pro Fashion",
+      "preview": "https://demo.mantrabrain.com/mantranews-pro-fashion/",
+      "description": "Be the fashion advisor for your audience using this Mantranews Demo.",
+      "template": [
+        "mantranews-pro"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "news",
+        "others"
+      ],
+      "pagebuilder": [
+        "default"
+      ],
+      "core_options": {
+        "blogname": "Mantranews Pro Fashion"
+      },
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "category": {
+            "mantranews_featured_posts_slider_widget": {
+              "2": {
+                "category": "Trends"
+              }
+            },
+            "mantranews_highlighted_posts_widget": {
+              "3": {
+                "category": "Mens Fashion"
+              }
+            },
+            "mantranews_featured_posts_widget": {
+              "2": {
+                "category": "Accessories"
+              }
+            },
+            "mantranews_featured_posts_vertical_widget": {
+              "2": {
+                "category": "Makeup"
+              },
+              "3": {
+                "category": "Mens Fashion"
+              },
+              "4": {
+                "category": "Womans Fashion"
+              },
+              "9": {
+                "category": "Wedding"
+              }
+            },
+            "mantranews_default_news_widget": {
+              "2": {
+                "category": "Outfit"
+              }
+            },
+            "mantranews_ticker_news_widget": {
+              "3": {
+                "category": "Makeup"
+              },
+              "4": {
+                "category": "Mens Fashion"
+              }
+            },
+            "mantranews_slider_news_widget": {
+              "7": {
+                "category": "Glamorous"
+              }
+            },
+            "mantranews_featured_posts_small_thumbnails": {
+              "2": {
+                "category": "Outfit"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary",
+          "footer": "Footer"
+        }
+      }
+    },
+    "mantranews-pro-technology": {
+      "isPro": true,
+      "title": "Mantranews Pro Technology",
+      "preview": "https://demo.mantrabrain.com/mantranews-pro-technology/",
+      "description": "Use this Mantranews demo to update blogs on the latest technologies.",
+      "template": [
+        "mantranews-pro"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "news",
+        "others"
+      ],
+      "pagebuilder": [
+        "default"
+      ],
+      "core_options": {
+        "blogname": "Mantranews Pro Technology"
+      },
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "category": {
+            "mantranews_featured_posts_slider_widget": {
+              "2": {
+                "category": "Featured"
+              }
+            },
+            "mantranews_highlighted_posts_widget": {
+              "2": {
+                "category": "Highlighted"
+              }
+            },
+            "mantranews_featured_posts_widget": {
+              "2": {
+                "category": "Accessories"
+              },
+              "4": {
+                "category": "Camera"
+              }
+            },
+            "mantranews_featured_posts_vertical_widget": {
+              "2": {
+                "category": "Android"
+              },
+              "3": {
+                "category": "Apple"
+              },
+              "4": {
+                "category": "Tablet"
+              },
+              "5": {
+                "category": "Mobile"
+              },
+              "8": {
+                "category": "Game"
+              }
+            },
+            "mantranews_default_news_widget": {
+              "2": {
+                "category": "Laptop"
+              }
+            },
+            "mantranews_ticker_news_widget": {
+              "2": {
+                "category": "Television"
+              }
+            },
+            "mantranews_slider_news_widget": {
+              "7": {
+                "category": "Glamorous"
+              }
+            },
+            "mantranews_featured_posts_small_thumbnails": {
+              "2": {
+                "category": "Accessories"
+              },
+              "3": {
+                "category": "Tablet"
+              }
+            },
+            "mantranews_news_in_picture_widget": {
+              "2": {
+                "category": "Top Product"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary Menu",
+          "footer": "Footer Menu"
+        }
+      }
+    },
+    "mantranews-pro-sports": {
+      "isPro": true,
+      "title": "Mantranews Pro Sports",
+      "preview": "https://demo.mantrabrain.com/mantranews-pro-sports/",
+      "description": "Share your sports news and updates with this Mantranews Demo.",
+      "template": [
+        "mantranews-pro"
+      ],
+      "category": [
+        "all",
+        "news",
+        "blog"
+      ],
+      "pagebuilder": [
+        "default"
+      ],
+      "core_options": {
+        "blogname": "Mantranews Pro Sports"
+      },
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "category": {
+            "mantranews_featured_posts_slider_widget": {
+              "2": {
+                "category": "Featured"
+              }
+            },
+            "mantranews_highlighted_posts_widget": {
+              "2": {
+                "category": "Highlighted"
+              }
+            },
+            "mantranews_featured_posts_widget": {
+              "2": {
+                "category": "Athlete"
+              }
+            },
+            "mantranews_featured_posts_vertical_widget": {
+              "2": {
+                "category": "Women"
+              },
+              "5": {
+                "category": "Snow Olympics"
+              },
+              "6": {
+                "category": "Race"
+              },
+              "7": {
+                "category": "Figure Skating"
+              }
+            },
+            "mantranews_default_news_widget": {
+              "2": {
+                "category": "Football"
+              }
+            },
+            "mantranews_slider_news_widget": {
+              "7": {
+                "category": "Athlete"
+              }
+            },
+            "mantranews_featured_posts_small_thumbnails": {
+              "2": {
+                "category": "Featured"
+              }
+            },
+            "mantranews_news_in_picture_widget": {
+              "2": {
+                "category": "Top Product"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary Menu"
+        }
+      }
+    },
+    "mantranews-pro-recipes": {
+      "isPro": true,
+      "title": "Mantranews Food Recipe",
+      "preview": "https://demo.mantrabrain.com/mantranews-pro-recipes/",
+      "description": "Want to show your food recipes? Here’s the Mantranews demo for you.",
+      "template": [
+        "mantranews-pro"
+      ],
+      "category": [
+        "all",
+        "others"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Mantranews Pro Recipe",
+        "page_on_front": "Homepage"
+      },
+      "elementor_data_update": {
+        "homepage": {
+          "post_title": "Homepage",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-6": {
+                "10": "Popular",
+                "14": "News"
+              },
+              "Mantranews-Posts-Block-7": {
+                "9": "Risotto"
+              },
+              "Mantranews-Posts-Block-8": {
+                "4": "Cake"
+              },
+              "Mantranews-Posts-Block-9": {
+                "6": "Quick recipes",
+                "8": "Pizzas"
+              },
+              "Mantranews-Posts-Grid-3": {
+                "5": "Desert"
+              },
+              "Mantranews-Posts-Grid-4": {
+                "6": "Quick recipes"
+              }
+            }
+          }
+        },
+        "baking": {
+          "post_title": "Baking",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-5": {
+                "3": "Baking"
+              },
+              "Mantranews-Posts-Block-9": {
+                "14": "News"
+              }
+            }
+          }
+        },
+        "breakfast": {
+          "post_title": "Breakfast",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-5": {
+                "13": "Breakfast"
+              },
+              "Mantranews-Posts-Block-6": {
+                "14": "News"
+              }
+            }
+          }
+        },
+        "desert": {
+          "post_title": "Desert",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-5": {
+                "5": "Desert"
+              },
+              "Mantranews-Posts-Block-6": {
+                "14": "News"
+              }
+            }
+          }
+        },
+        "news": {
+          "post_title": "News",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-5": {
+                "14": "News"
+              },
+              "Mantranews-Posts-Block-6": {
+                "14": "News"
+              }
+            }
+          }
+        },
+        "noodels": {
+          "post_title": "Noodels",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-5": {
+                "7": "Noddles"
+              },
+              "Mantranews-Posts-Block-6": {
+                "14": "News"
+              }
+            }
+          }
+        },
+        "pasta": {
+          "post_title": "Pasta",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-5": {
+                "12": "Pasta"
+              },
+              "Mantranews-Posts-Block-6": {
+                "14": "News"
+              }
+            }
+          }
+        },
+        "pizzas": {
+          "post_title": "Pizzas",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-5": {
+                "8": "Pizzas"
+              },
+              "Mantranews-Posts-Block-6": {
+                "14": "News"
+              }
+            }
+          }
+        },
+        "popular": {
+          "post_title": "Popular",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-5": {
+                "10": "Popular"
+              },
+              "Mantranews-Posts-Block-6": {
+                "14": "News"
+              }
+            }
+          }
+        },
+        "quick-recipes": {
+          "post_title": "Quick Recipes",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-5": {
+                "6": "Quick recipes"
+              },
+              "Mantranews-Posts-Block-6": {
+                "14": "News"
+              }
+            }
+          }
+        },
+        "risotto": {
+          "post_title": "Risotto",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-5": {
+                "9": "Risotto"
+              },
+              "Mantranews-Posts-Block-6": {
+                "14": "News"
+              }
+            }
+          }
+        },
+        "smoothie": {
+          "post_title": "Smoothie",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-5": {
+                "11": "Smoothie"
+              },
+              "Mantranews-Posts-Block-6": {
+                "14": "News"
+              }
+            }
+          }
+        },
+        "customizer_data_update": {
+          "nav_menu_locations": {
+            "primary": "primary"
           }
         }
       }
-    }
-  },
-  "customizer_data_update": {
-    "nav_menu_locations": {
-      "primary": "Primary",
-      "footer": "Footer"
+    },
+    "mantranews-pro-health-blog": {
+      "isPro": true,
+      "title": "Mantranews Health Blog",
+      "preview": "https://demo.mantrabrain.com/mantranews-pro-health-blog/",
+      "description": "Give healthy tips to your viewers with this Mantranews Demo.",
+      "template": [
+        "mantranews-pro"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "others"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Mantranews Health Blog",
+        "page_on_front": "Home"
+      },
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "category": {
+            "mantranews_featured_posts_small_thumbnails": {
+              "2": {
+                "category": "Tips &amp; Guides"
+              }
+            }
+          }
+        }
+      },
+      "elementor_data_update": {
+        "home": {
+          "post_title": "Home",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-1": {
+                "13": "Food &amp; Nutrition"
+              },
+              "Mantranews-Posts-Block-4": {
+                "9": "Tips &amp; Guides"
+              },
+              "Mantranews-Posts-Block-6": {
+                "17": "Disease"
+              },
+              "Mantranews-Posts-Block-7": {
+                "15": "Drugs",
+                "14": "Tech"
+              },
+              "Mantranews-Posts-Block-8": {
+                "3": "General"
+              },
+              "Mantranews-Posts-Block-9": {
+                "6": "Quick recipes",
+                "8": "Pizzas"
+              },
+              "Mantranews-Posts-Grid-4": {
+                "7": "Fitness"
+              },
+              "Mantranews-Posts-Grid-6": {
+                "6": "Quick recipes"
+              }
+            }
+          }
+        },
+        "disease": {
+          "post_title": "Disease",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-5": {
+                "13": "Food &amp; Nutrition",
+                "17": "Disease"
+              },
+              "Mantranews-Posts-Block-7": {
+                "3": "General"
+              }
+            }
+          }
+        },
+        "drugs": {
+          "post_title": "Drugs",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-5": {
+                "15": "Drugs"
+              },
+              "Mantranews-Posts-Block-7": {
+                "3": "General"
+              }
+            }
+          }
+        },
+        "fitness": {
+          "post_title": "Fitness",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-5": {
+                "7": "Fitness"
+              },
+              "Mantranews-Posts-Block-7": {
+                "3": "General"
+              }
+            }
+          }
+        },
+        "food-nutrition": {
+          "post_title": "Food & Nutrition",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-5": {
+                "13": "Food &amp; Nutrition"
+              },
+              "Mantranews-Posts-Block-7": {
+                "3": "General"
+              }
+            }
+          }
+        },
+        "general": {
+          "post_title": "General",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-5": {
+                "3": "General"
+              },
+              "Mantranews-Posts-Block-7": {
+                "3": "General"
+              }
+            }
+          }
+        },
+        "tech": {
+          "post_title": "Tech",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-5": {
+                "14": "Tech"
+              },
+              "Mantranews-Posts-Block-7": {
+                "3": "General"
+              }
+            }
+          }
+        },
+        "tips-guides": {
+          "post_title": "Tips & Guides",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-5": {
+                "13": "Food &amp; Nutrition"
+              },
+              "Mantranews-Posts-Block-7": {
+                "3": "General"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary"
+        }
+      }
+    },
+    "mantranews-pro-music": {
+      "isPro": true,
+      "title": "Mantranews Pro Music",
+      "preview": "https://demo.mantrabrain.com/mantranews-pro-music/",
+      "description": "You can show your taste of music using this Mantranews Demo.",
+      "template": [
+        "mantranews-pro"
+      ],
+      "category": [
+        "all",
+        "others"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Mantranews Pro Music",
+        "page_on_front": "Home"
+      },
+      "elementor_data_update": {
+        "home": {
+          "post_title": "Home",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-3": {
+                "7": "Video"
+              },
+              "Mantranews-Posts-Block-4": {
+                "6": "Event"
+              },
+              "Mantranews-Posts-Block-6": {
+                "6": "Event",
+                "10": "News"
+              },
+              "Mantranews-Posts-Block-7": {
+                "3": "Music",
+                "11": "Rock",
+                "12": "Jazz",
+                "13": "Pop"
+              },
+              "Mantranews-Posts-Grid-3": {
+                "6": "Event"
+              }
+            }
+          }
+        },
+        "events": {
+          "post_title": "Events",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-4": {
+                "4": "High light",
+                "6": "Event"
+              },
+              "Mantranews-Posts-Block-9": {
+                "10": "News"
+              }
+            }
+          }
+        },
+        "jazz": {
+          "post_title": "Jazz",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-5": {
+                "12": "Jazz"
+              },
+              "Mantranews-Posts-Block-7": {
+                "4": "High light",
+                "6": "Event"
+              }
+            }
+          }
+        },
+        "news": {
+          "post_title": "News",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-5": {
+                "4": "High light"
+              },
+              "Mantranews-Posts-Block-7": {
+                "4": "High light",
+                "6": "Event"
+              },
+              "Mantranews-Posts-Block-9": {
+                "6": "Event"
+              }
+            }
+          }
+        },
+        "pop": {
+          "post_title": "Pop",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-5": {
+                "13": "Pop"
+              },
+              "Mantranews-Posts-Block-7": {
+                "10": "News"
+              }
+            }
+          }
+        },
+        "rock": {
+          "post_title": "Rock",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-5": {
+                "11": "Rock"
+              },
+              "Mantranews-Posts-Block-7": {
+                "10": "News"
+              }
+            }
+          }
+        },
+        "videos": {
+          "post_title": "Videos",
+          "data_update": {
+            "category": {
+              "Mantranews-Posts-Block-3": {
+                "7": "Video"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary"
+        }
+      }
     }
   }
-},
-"mantranews-pro-fashion": {
-"isPro": true,
-"title": "Mantranews Pro Fashion",
-"preview": "https://demo.mantrabrain.com/mantranews-pro-fashion/",
-"description": "Be the fashion advisor for your audience using this Mantranews Demo.",
-"template": [
-"mantranews-pro"
-],
-"category": [
-"all",
-"blog",
-"news",
-"others"
-],
-"pagebuilder": [
-"default"
-],
-"plugins_list": },
-"core_options": {
-"blogname": "Mantranews Pro Fashion"
-},
-"widgets_data_update": {
-"dropdown_categories": {
-"category": {
-"mantranews_featured_posts_slider_widget": {
-"2": {
-"category": "Trends"
-}
-},
-"mantranews_highlighted_posts_widget": {
-"3": {
-"category": "Mens Fashion"
-}
-},
-"mantranews_featured_posts_widget": {
-"2": {
-"category": "Accessories"
-}
-},
-"mantranews_featured_posts_vertical_widget": {
-"2": {
-"category": "Makeup"
-},
-"3": {
-"category": "Mens Fashion"
-},
-"4": {
-"category": "Womans Fashion"
-},
-"9": {
-"category": "Wedding"
-}
-},
-"mantranews_default_news_widget": {
-"2": {
-"category": "Outfit"
-}
-},
-"mantranews_ticker_news_widget": {
-"3": {
-"category": "Makeup"
-},
-"4": {
-"category": "Mens Fashion"
-}
-},
-"mantranews_slider_news_widget": {
-"7": {
-"category": "Glamorous"
-}
-},
-"mantranews_featured_posts_small_thumbnails": {
-"2": {
-"category": "Outfit"
-}
-}
-}
-}
-},
-"customizer_data_update": {
-"nav_menu_locations": {
-"primary": "Primary",
-"footer": "Footer"
-}
-}
-},
-"mantranews-pro-technology": {
-"isPro": true,
-"title": "Mantranews Pro Technology",
-"preview": "https://demo.mantrabrain.com/mantranews-pro-technology/",
-"description": "Use this Mantranews demo to update blogs on the latest technologies.",
-"template": [
-"mantranews-pro"
-],
-"category": [
-"all",
-"blog",
-"news",
-"others"
-],
-"pagebuilder": [
-"default"
-],
-"plugins_list": },
-"core_options": {
-"blogname": "Mantranews Pro Technology"
-},
-"widgets_data_update": {
-"dropdown_categories": {
-"category": {
-"mantranews_featured_posts_slider_widget": {
-"2": {
-"category": "Featured"
-}
-},
-"mantranews_highlighted_posts_widget": {
-"2": {
-"category": "Highlighted"
-}
-},
-"mantranews_featured_posts_widget": {
-"2": {
-"category": "Accessories"
-},
-"4": {
-"category": "Camera"
-}
-},
-"mantranews_featured_posts_vertical_widget": {
-"2": {
-"category": "Android"
-},
-"3": {
-"category": "Apple"
-},
-"4": {
-"category": "Tablet"
-},
-"5": {
-"category": "Mobile"
-},
-"8": {
-"category": "Game"
-}
-},
-"mantranews_default_news_widget": {
-"2": {
-"category": "Laptop"
-}
-},
-"mantranews_ticker_news_widget": {
-"2": {
-"category": "Television"
-}
-},
-"mantranews_slider_news_widget": {
-"7": {
-"category": "Glamorous"
-}
-},
-"mantranews_featured_posts_small_thumbnails": {
-"2": {
-"category": "Accessories"
-},
-"3": {
-"category": "Tablet"
-}
-},
-"mantranews_news_in_picture_widget": {
-"2": {
-"category": "Top Product"
-}
-}
-}
-}
-},
-"customizer_data_update": {
-"nav_menu_locations": {
-"primary": "Primary Menu",
-"footer": "Footer Menu"
-}
-}
-},
-"mantranews-pro-sports": {
-"isPro": true,
-"title": "Mantranews Pro Sports",
-"preview": "https://demo.mantrabrain.com/mantranews-pro-sports/",
-"description": "Share your sports news and updates with this Mantranews Demo.",
-"template": [
-"mantranews-pro"
-],
-"category": [
-"all",
-"news",
-"blog"
-],
-"pagebuilder": [
-"default"
-],
-"plugins_list": },
-"core_options": {
-"blogname": "Mantranews Pro Sports"
-},
-"widgets_data_update": {
-"dropdown_categories": {
-"category": {
-"mantranews_featured_posts_slider_widget": {
-"2": {
-"category": "Featured"
-}
-},
-"mantranews_highlighted_posts_widget": {
-"2": {
-"category": "Highlighted"
-}
-},
-"mantranews_featured_posts_widget": {
-"2": {
-"category": "Athlete"
-}
-},
-"mantranews_featured_posts_vertical_widget": {
-"2": {
-"category": "Women"
-},
-"5": {
-"category": "Snow Olympics"
-},
-"6": {
-"category": "Race"
-},
-"7": {
-"category": "Figure Skating"
-}
-},
-"mantranews_default_news_widget": {
-"2": {
-"category": "Football"
-}
-},
-"mantranews_slider_news_widget": {
-"7": {
-"category": "Athlete"
-}
-},
-"mantranews_featured_posts_small_thumbnails": {
-"2": {
-"category": "Featured"
-}
-},
-"mantranews_news_in_picture_widget": {
-"2": {
-"category": "Top Product"
-}
-}
-}
-}
-},
-"customizer_data_update": {
-"nav_menu_locations": {
-"primary": "Primary Menu"
-}
-}
-},
-"mantranews-pro-recipes": {
-"isPro": true,
-"title": "Mantranews Food Recipe",
-"preview": "https://demo.mantrabrain.com/mantranews-pro-recipes/",
-"description": "Want to show your food recipes? Here’s the Mantranews demo for you.",
-"template": [
-"mantranews-pro"
-],
-"category": [
-"all",
-"others"
-],
-"pagebuilder": [
-"elementor"
-],
-"plugins_list": {
-"elementor": {
-"name": "Elementor",
-"slug": "elementor/elementor.php"
-}
-},
-"core_options": {
-"blogname": "Mantranews Pro Recipe",
-"page_on_front": "Homepage"
-},
-"elementor_data_update": {
-"homepage": {
-"post_title": "Homepage",
-"data_update": {
-"category": {
-"Mantranews-Posts-Block-6": {
-"10": "Popular",
-"14": "News"
-},
-"Mantranews-Posts-Block-7": {
-"9": "Risotto"
-},
-"Mantranews-Posts-Block-8": {
-"4": "Cake"
-},
-"Mantranews-Posts-Block-9": {
-"6": "Quick recipes",
-"8": "Pizzas"
-},
-"Mantranews-Posts-Grid-3": {
-"5": "Desert"
-},
-"Mantranews-Posts-Grid-4": {
-"6": "Quick recipes"
-}
-}
-}
-},
-"baking": {
-"post_title": "Baking",
-"data_update": {
-"category": {
-"Mantranews-Posts-Block-5": {
-"3": "Baking"
-},
-"Mantranews-Posts-Block-9": {
-"14": "News"
-}
-}
-}
-},
-"breakfast": {
-"post_title": "Breakfast",
-"data_update": {
-"category": {
-"Mantranews-Posts-Block-5": {
-"13": "Breakfast"
-},
-"Mantranews-Posts-Block-6": {
-"14": "News"
-}
-}
-}
-},
-"desert": {
-"post_title": "Desert",
-"data_update": {
-"category": {
-"Mantranews-Posts-Block-5": {
-"5": "Desert"
-},
-"Mantranews-Posts-Block-6": {
-"14": "News"
-}
-}
-}
-},
-"news": {
-"post_title": "News",
-"data_update": {
-"category": {
-"Mantranews-Posts-Block-5": {
-"14": "News"
-},
-"Mantranews-Posts-Block-6": {
-"14": "News"
-}
-}
-}
-},
-"noodels": {
-"post_title": "Noodels",
-"data_update": {
-"category": {
-"Mantranews-Posts-Block-5": {
-"7": "Noddles"
-},
-"Mantranews-Posts-Block-6": {
-"14": "News"
-}
-}
-}
-},
-"pasta": {
-"post_title": "Pasta",
-"data_update": {
-"category": {
-"Mantranews-Posts-Block-5": {
-"12": "Pasta"
-},
-"Mantranews-Posts-Block-6": {
-"14": "News"
-}
-}
-}
-},
-"pizzas": {
-"post_title": "Pizzas",
-"data_update": {
-"category": {
-"Mantranews-Posts-Block-5": {
-"8": "Pizzas"
-},
-"Mantranews-Posts-Block-6": {
-"14": "News"
-}
-}
-}
-},
-"popular": {
-"post_title": "Popular",
-"data_update": {
-"category": {
-"Mantranews-Posts-Block-5": {
-"10": "Popular"
-},
-"Mantranews-Posts-Block-6": {
-"14": "News"
-}
-}
-}
-},
-"quick-recipes": {
-"post_title": "Quick Recipes",
-"data_update": {
-"category": {
-"Mantranews-Posts-Block-5": {
-"6": "Quick recipes"
-},
-"Mantranews-Posts-Block-6": {
-"14": "News"
-}
-}
-}
-},
-"risotto": {
-"post_title": "Risotto",
-"data_update": {
-"category": {
-"Mantranews-Posts-Block-5": {
-"9": "Risotto"
-},
-"Mantranews-Posts-Block-6": {
-"14": "News"
-}
-}
-}
-},
-"smoothie": {
-"post_title": "Smoothie",
-"data_update": {
-"category": {
-"Mantranews-Posts-Block-5": {
-"11": "Smoothie"
-},
-"Mantranews-Posts-Block-6": {
-"14": "News"
-}
-}
-}
-},
-"customizer_data_update": {
-"nav_menu_locations": {
-"primary": "primary"
-}
-}
-}
-},
-"mantranews-pro-health-blog": {
-"isPro": true,
-"title": "Mantranews Health Blog",
-"preview": "https://demo.mantrabrain.com/mantranews-pro-health-blog/",
-"description": "Give healthy tips to your viewers with this Mantranews Demo.",
-"template": [
-"mantranews-pro"
-],
-"category": [
-"all",
-"blog",
-"others"
-],
-"pagebuilder": [
-"elementor"
-],
-"plugins_list": {
-"elementor": {
-"name": "Elementor",
-"slug": "elementor/elementor.php"
-}
-},
-"core_options": {
-"blogname": "Mantranews Health Blog",
-"page_on_front": "Home"
-},
-"widgets_data_update": {
-"dropdown_categories": {
-"category": {
-"mantranews_featured_posts_small_thumbnails": {
-"2": {
-"category": "Tips &amp; Guides"
-}
-}
-}
-}
-},
-"elementor_data_update": {
-"home": {
-"post_title": "Home",
-"data_update": {
-"category": {
-"Mantranews-Posts-Block-1": {
-"13": "Food &amp; Nutrition"
-},
-"Mantranews-Posts-Block-4": {
-"9": "Tips &amp; Guides"
-},
-"Mantranews-Posts-Block-6": {
-"17": "Disease"
-},
-"Mantranews-Posts-Block-7": {
-"15": "Drugs",
-"14": "Tech"
-},
-"Mantranews-Posts-Block-8": {
-"3": "General"
-},
-"Mantranews-Posts-Block-9": {
-"6": "Quick recipes",
-"8": "Pizzas"
-},
-"Mantranews-Posts-Grid-4": {
-"7": "Fitness"
-},
-"Mantranews-Posts-Grid-6": {
-"6": "Quick recipes"
-}
-}
-}
-},
-"disease": {
-"post_title": "Disease",
-"data_update": {
-"category": {
-"Mantranews-Posts-Block-5": {
-"13": "Food &amp; Nutrition",
-"17": "Disease"
-},
-"Mantranews-Posts-Block-7": {
-"3": "General"
-}
-}
-}
-},
-"drugs": {
-"post_title": "Drugs",
-"data_update": {
-"category": {
-"Mantranews-Posts-Block-5": {
-"15": "Drugs"
-},
-"Mantranews-Posts-Block-7": {
-"3": "General"
-}
-}
-}
-},
-"fitness": {
-"post_title": "Fitness",
-"data_update": {
-"category": {
-"Mantranews-Posts-Block-5": {
-"7": "Fitness"
-},
-"Mantranews-Posts-Block-7": {
-"3": "General"
-}
-}
-}
-},
-"food-nutrition": {
-"post_title": "Food & Nutrition",
-"data_update": {
-"category": {
-"Mantranews-Posts-Block-5": {
-"13": "Food &amp; Nutrition"
-},
-"Mantranews-Posts-Block-7": {
-"3": "General"
-}
-}
-}
-},
-"general": {
-"post_title": "General",
-"data_update": {
-"category": {
-"Mantranews-Posts-Block-5": {
-"3": "General"
-},
-"Mantranews-Posts-Block-7": {
-"3": "General"
-}
-}
-}
-},
-"tech": {
-"post_title": "Tech",
-"data_update": {
-"category": {
-"Mantranews-Posts-Block-5": {
-"14": "Tech"
-},
-"Mantranews-Posts-Block-7": {
-"3": "General"
-}
-}
-}
-},
-"tips-guides": {
-"post_title": "Tips & Guides",
-"data_update": {
-"category": {
-"Mantranews-Posts-Block-5": {
-"13": "Food &amp; Nutrition"
-},
-"Mantranews-Posts-Block-7": {
-"3": "General"
-}
-}
-}
-}
-},
-"customizer_data_update": {
-"nav_menu_locations": {
-"primary": "Primary"
-}
-}
-},
-"mantranews-pro-music": {
-"isPro": true,
-"title": "Mantranews Pro Music",
-"preview": "https://demo.mantrabrain.com/mantranews-pro-music/",
-"description": "You can show your taste of music using this Mantranews Demo.",
-"template": [
-"mantranews-pro"
-],
-"category": [
-"all",
-"others"
-],
-"pagebuilder": [
-"elementor"
-],
-"plugins_list": {
-"elementor": {
-"name": "Elementor",
-"slug": "elementor/elementor.php"
-}
-},
-"core_options": {
-"blogname": "Mantranews Pro Music",
-"page_on_front": "Home"
-},
-"elementor_data_update": {
-"home": {
-"post_title": "Home",
-"data_update": {
-"category": {
-"Mantranews-Posts-Block-3": {
-"7": "Video"
-},
-"Mantranews-Posts-Block-4": {
-"6": "Event"
-},
-"Mantranews-Posts-Block-6": {
-"6": "Event",
-"10": "News"
-},
-"Mantranews-Posts-Block-7": {
-"3": "Music",
-"11": "Rock",
-"12": "Jazz",
-"13": "Pop"
-},
-"Mantranews-Posts-Grid-3": {
-"6": "Event"
-}
-}
-}
-},
-"events": {
-"post_title": "Events",
-"data_update": {
-"category": {
-"Mantranews-Posts-Block-4": {
-"4": "High light",
-"6": "Event"
-},
-"Mantranews-Posts-Block-9": {
-"10": "News"
-}
-}
-}
-},
-"jazz": {
-"post_title": "Jazz",
-"data_update": {
-"category": {
-"Mantranews-Posts-Block-5": {
-"12": "Jazz"
-},
-"Mantranews-Posts-Block-7": {
-"4": "High light",
-"6": "Event"
-}
-}
-}
-},
-"news": {
-"post_title": "News",
-"data_update": {
-"category": {
-"Mantranews-Posts-Block-5": {
-"4": "High light"
-},
-"Mantranews-Posts-Block-7": {
-"4": "High light",
-"6": "Event"
-},
-"Mantranews-Posts-Block-9": {
-"6": "Event"
-}
-}
-}
-},
-"pop": {
-"post_title": "Pop",
-"data_update": {
-"category": {
-"Mantranews-Posts-Block-5": {
-"13": "Pop"
-},
-"Mantranews-Posts-Block-7": {
-"10": "News"
-}
-}
-}
-},
-"rock": {
-"post_title": "Rock",
-"data_update": {
-"category": {
-"Mantranews-Posts-Block-5": {
-"11": "Rock"
-},
-"Mantranews-Posts-Block-7": {
-"10": "News"
-}
-}
-}
-},
-"videos": {
-"post_title": "Videos",
-"data_update": {
-"category": {
-"Mantranews-Posts-Block-3": {
-"7": "Video"
-}
-}
-}
-}
-},
-"customizer_data_update": {
-"nav_menu_locations": {
-"primary": "Primary"
-}
-}
-}
-}
 }
