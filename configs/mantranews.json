@@ -9,7 +9,6 @@
     "news": "News",
     "others": "Others"
   },
-  
   "pagebuilders": {
     "default": "Default",
     "elementor": "Elementor"
