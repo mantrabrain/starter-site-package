@@ -11,7 +11,7 @@
   },
   "pagebuilders": {
     "default": "Default",
-//    "elementor": "Elementor"
+    "elementor": "Elementor"
   },
   "demos": {
     "mantranews-free": {
