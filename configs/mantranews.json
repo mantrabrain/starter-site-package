@@ -32,30 +32,11 @@
       ],
       "core_options": {
         "blogname": "Mantranews",
-        "show_on_front":"page",
         "page_on_front":"Home Page"
       },
       "widgets_data_update": {
         "dropdown_categories": {
           "category": {
-            "mantranews_featured_posts_slider_widget": {
-              "4": {
-                "category": "Latest"
-              }
-            },
-            "mantranews_highlighted_posts_widget": {
-              "3": {
-                "category": "FEATURED"
-              }
-            },
-            "mantranews_featured_posts_widget": {
-              "3": {
-                "category": "Health"
-              },
-              "4": {
-                "category": "Technology"
-              }
-            },
             "mantranews_featured_posts_vertical_widget": {
               "3": {
                 "category": "Fashion"
@@ -93,58 +74,12 @@
         "default"
       ],
       "core_options": {
-        "blogname": "Mantranews Pro"
+        "blogname": "Mantranews Pro",
+        "page_on_front":"Home Page"
       },
       "widgets_data_update": {
         "dropdown_categories": {
           "category": {
-            "mantranews_featured_posts_slider_widget": {
-              "2": {
-                "category": "Research"
-              }
-            },
-            "mantranews_highlighted_posts_widget": {
-              "2": {
-                "category": "Technology"
-              }
-            },
-            "mantranews_featured_posts_widget": {
-              "2": {
-                "category": "Business"
-              }
-            },
-            "mantranews_featured_posts_vertical_widget": {
-              "2": {
-                "category": "Health"
-              },
-              "3": {
-                "category": "Fashion"
-              },
-              "4": {
-                "category": "Politics"
-              },
-              "9": {
-                "category": "Technology"
-              },
-              "10": {
-                "category": "Travel"
-              }
-            },
-            "mantranews_default_news_widget": {
-              "2": {
-                "category": "Adventure"
-              }
-            },
-            "mantranews_ticker_news_widget": {
-              "2": {
-                "category": "Travel"
-              }
-            },
-            "mantranews_slider_news_widget": {
-              "7": {
-                "category": "Sports"
-              }
-            },
             "mantranews_featured_posts_small_thumbnails": {
               "2": {
                 "category": "Technology"
@@ -155,8 +90,7 @@
       },
       "customizer_data_update": {
         "nav_menu_locations": {
-          "primary": "Primary",
-          "footer": "Footer"
+          "primary": "Primary"
         }
       }
     }
