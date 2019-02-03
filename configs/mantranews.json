@@ -33,7 +33,7 @@
       "core_options": {
         "blogname": "Mantranews",
         "show_on_front":"page",
-        "page_on_front":"22"
+        "page_on_front":"Home Page"
       },
       "widgets_data_update": {
         "dropdown_categories": {
