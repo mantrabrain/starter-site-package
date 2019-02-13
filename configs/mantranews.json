@@ -16,7 +16,7 @@
   "demos": {
     "mantranews-free": {
       "title": "Mantranews",
-      "preview": "https://demo.mantrabrain.com/mantranews/",
+      "preview": "https://demo.mantrabrain.com/mantranews-default/",
       "description": "This is the default Mantranews demo perfect for your online magazine.",
       "template": [
         "mantranews",
