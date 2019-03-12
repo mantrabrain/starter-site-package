@@ -80,9 +80,15 @@
       "widgets_data_update": {
         "dropdown_categories": {
           "category": {
-            "mantranews_featured_posts_small_thumbnails": {
-              "2": {
-                "category": "Technology"
+            "mantranews_featured_posts_vertical_widget": {
+              "3": {
+                "category": "Fashion"
+              },
+              "4": {
+                "category": "Sports"
+              },
+              "5": {
+                "category": "General"
               }
             }
           }
