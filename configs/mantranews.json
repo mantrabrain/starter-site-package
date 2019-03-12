@@ -96,7 +96,9 @@
       },
       "customizer_data_update": {
         "nav_menu_locations": {
-          "primary": "Primary"
+          "primary": "Main Menu",
+          "top-header": "Top Header Menu",
+          "footer": "Footer Menu"
         }
       }
     }
