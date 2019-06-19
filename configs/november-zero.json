@@ -1,0 +1,88 @@
+{
+  "name": "November Zero",
+  "slug": "november-zero",
+  "version": "1.0.0",
+  "homepage": "https://mantrabrain.com/downloads/november-zero/",
+  "categories": {
+    "all": "All",
+    "business": "Business",
+    "others": "Others"
+  },
+  "pagebuilders": {
+    "default": "Default",
+    "elementor": "Elementor"
+  },
+  "demos": {
+    "november-zero-free": {
+      "title": "November Zero",
+      "preview": "https://demo.mantrabrain.com/november-zero/",
+      "description": "This is the default November Zero demo perfect for your Business.",
+      "template": [
+        "november-zero",
+        "november-zero-pro"
+      ],
+      "category": [
+        "all",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "default"
+      ],
+      "core_options": {
+        "blogname": "November Zero",
+        "page_on_front": "Home Page"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main Menu"
+        }
+      }
+    },
+    "november-zero-pro": {
+      "isPro": true,
+      "title": "November Zero Pro",
+      "preview": "https://demo.mantrabrain.com/november-zero-pro/",
+      "description": "The premium version of the default November Zero demo for your online magazine.",
+      "template": [
+        "november-zero-pro"
+      ],
+      "category": [
+        "all",
+        "news",
+        "blog"
+      ],
+      "pagebuilder": [
+        "default"
+      ],
+      "core_options": {
+        "blogname": "November Zero Pro",
+        "page_on_front": "Home Page"
+      },
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "category": {
+            "november-zero_featured_posts_vertical_widget": {
+              "3": {
+                "category": "Fashion"
+              },
+              "4": {
+                "category": "Sports"
+              },
+              "5": {
+                "category": "General"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main Menu",
+          "top-header": "Top Header Menu",
+          "footer": "Footer Menu"
+        }
+      }
+    }
+  }
+}
