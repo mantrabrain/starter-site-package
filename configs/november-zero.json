@@ -49,8 +49,8 @@
       ],
       "category": [
         "all",
-        "news",
-        "blog"
+        "business",
+        "others"
       ],
       "pagebuilder": [
         "default"
@@ -59,28 +59,9 @@
         "blogname": "November Zero Pro",
         "page_on_front": "Home Page"
       },
-      "widgets_data_update": {
-        "dropdown_categories": {
-          "category": {
-            "november-zero_featured_posts_vertical_widget": {
-              "3": {
-                "category": "Fashion"
-              },
-              "4": {
-                "category": "Sports"
-              },
-              "5": {
-                "category": "General"
-              }
-            }
-          }
-        }
-      },
       "customizer_data_update": {
         "nav_menu_locations": {
-          "primary": "Main Menu",
-          "top-header": "Top Header Menu",
-          "footer": "Footer Menu"
+          "primary": "Main Menu"
         }
       }
     }
