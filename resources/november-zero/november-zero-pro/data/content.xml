@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.2.2" created="2019-06-19 04:38" -->
+	<!-- generator="WordPress/5.2.2" created="2019-06-20 08:28" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,29 +26,17 @@
 >
 
 <channel>
-	<title>November Zero</title>
-	<link>https://demo.mantrabrain.com/november-zero</link>
+	<title>November Zero Pro</title>
+	<link>https://demo.mantrabrain.com/november-zero-pro</link>
 	<description>Just another MantraBrain Demo site</description>
-	<pubDate>Wed, 19 Jun 2019 04:38:12 +0000</pubDate>
+	<pubDate>Thu, 20 Jun 2019 08:28:21 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.mantrabrain.com/</wp:base_site_url>
-	<wp:base_blog_url>https://demo.mantrabrain.com/november-zero</wp:base_blog_url>
+	<wp:base_blog_url>https://demo.mantrabrain.com/november-zero-pro</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[mantrabrain_demo]]></wp:author_login><wp:author_email><![CDATA[mantrabrain@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[mbdemo]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
-		<wp:category>
-		<wp:term_id>17</wp:term_id>
-		<wp:category_nicename><![CDATA[business]]></wp:category_nicename>
-		<wp:category_parent><![CDATA[]]></wp:category_parent>
-		<wp:cat_name><![CDATA[Business]]></wp:cat_name>
-	</wp:category>
-		<wp:category>
-		<wp:term_id>18</wp:term_id>
-		<wp:category_nicename><![CDATA[technology]]></wp:category_nicename>
-		<wp:category_parent><![CDATA[]]></wp:category_parent>
-		<wp:cat_name><![CDATA[Technology]]></wp:cat_name>
-	</wp:category>
 		<wp:category>
 		<wp:term_id>1</wp:term_id>
 		<wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename>
@@ -159,72 +147,18 @@
 	<generator>https://wordpress.org/?v=5.2.2</generator>
 
 		<item>
-		<title>Hello world!</title>
-		<link>https://demo.mantrabrain.com/november-zero/2019/06/18/hello-world/</link>
-		<pubDate>Tue, 18 Jun 2019 13:59:41 +0000</pubDate>
-		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[Welcome to <a href="http://demo.mantrabrain.com/">MantraBrain Demo</a>. This is your first post. Edit or delete it, then start blogging!
-
-Welcome to <a href="http://demo.mantrabrain.com/">MantraBrain Demo</a>. This is your first post. Edit or delete it, then start blogging!
-
-Lorem ipsum dummy text is simply dummy text for internet and web. You can change this text with your original one. Lorem ipsum dummy text is simply dummy text for internet and web.
-
-Lorem ipsum dummy text is simply dummy text for internet and web. You can change this text with your original one. Lorem ipsum dummy text is simply dummy text for internet and web.
-
-Lorem ipsum dummy text is simply dummy text for internet and web. You can change this text with your original one. Lorem ipsum dummy text is simply dummy text for internet and web.
-
-Lorem ipsum dummy text is simply dummy text for internet and web. You can change this text with your original one. Lorem ipsum dummy text is simply dummy text for internet and web.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-18 13:59:41]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-18 13:59:41]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="business"><![CDATA[Business]]></category>
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[41]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
-			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
-			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2019-06-18 13:59:41]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2019-06-18 13:59:41]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
-					<item>
 		<title>Sample Page</title>
-		<link>https://demo.mantrabrain.com/november-zero/sample-page/</link>
-		<pubDate>Tue, 18 Jun 2019 13:59:41 +0000</pubDate>
+		<link>https://demo.mantrabrain.com/november-zero-pro/sample-page/</link>
+		<pubDate>Thu, 20 Jun 2019 03:54:31 +0000</pubDate>
 		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero/?page_id=2</guid>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero-pro/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
+<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like piña coladas. (And gettin' caught in the rain.)</p></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
@@ -236,12 +170,12 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="https://demo.mantrabrain.com/november-zero/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<p>As a new WordPress user, you should go to <a href="https://demo.mantrabrain.com/november-zero-pro/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-18 13:59:41]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-18 13:59:41]]></wp:post_date_gmt>
+		<wp:post_date><![CDATA[2019-06-20 03:54:31]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-06-20 03:54:31]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
@@ -255,19 +189,23 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[16]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>woocommerce-placeholder</title>
-		<link>https://demo.mantrabrain.com/november-zero/woocommerce-placeholder/</link>
-		<pubDate>Tue, 18 Jun 2019 13:59:47 +0000</pubDate>
+		<link>https://demo.mantrabrain.com/november-zero-pro/woocommerce-placeholder/</link>
+		<pubDate>Thu, 20 Jun 2019 03:54:33 +0000</pubDate>
 		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero/wp-content/uploads/sites/6/2019/06/woocommerce-placeholder.png</guid>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero-pro/wp-content/uploads/sites/7/2019/06/woocommerce-placeholder.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>3</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-18 13:59:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-18 13:59:47]]></wp:post_date_gmt>
+		<wp:post_date><![CDATA[2019-06-20 03:54:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-06-20 03:54:33]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[woocommerce-placeholder]]></wp:post_name>
@@ -277,7 +215,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.mantrabrain.com/november-zero/wp-content/uploads/sites/6/woocommerce-placeholder.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.mantrabrain.com/november-zero-pro/wp-content/uploads/sites/7/woocommerce-placeholder.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[woocommerce-placeholder.png]]></wp:meta_value>
@@ -288,63 +226,23 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>About Us</title>
-		<link>https://demo.mantrabrain.com/november-zero/about-us/</link>
-		<pubDate>Tue, 18 Jun 2019 16:47:22 +0000</pubDate>
-		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero/?page_id=9</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>We are professional WordPress developer team. We love WordPress and wants to make more awesome products on WordPress. We have started journey since 1st January 2019 as Mantra Brain Technology but before that we were working for various of different multinational companies related WordPress, PHP and other different web/software and mobile application development technology. We assure we are started journey to make best things for you.<br></p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>9</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-18 16:47:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-18 16:47:22]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[about-us]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
 		<title>Contact Us</title>
-		<link>https://demo.mantrabrain.com/november-zero/contact-us/</link>
-		<pubDate>Tue, 18 Jun 2019 16:47:34 +0000</pubDate>
+		<link>https://demo.mantrabrain.com/november-zero-pro/contact-us/</link>
+		<pubDate>Thu, 20 Jun 2019 03:56:39 +0000</pubDate>
 		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero/?page_id=11</guid>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero-pro/?page_id=6</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p> Lorem ipsum dummy text is simply dummy text for internet and web. You can change this text with your original one.   Lorem ipsum dummy text is simply dummy text for internet and web.   </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p> Lorem ipsum dummy text is simply dummy text for internet and web. You can change this text with your original one.   Lorem ipsum dummy text is simply dummy text for internet and web.   </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p> Lorem ipsum dummy text is simply dummy text for internet and web. You can change this text with your original one.   Lorem ipsum dummy text is simply dummy text for internet and web.   </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>
-
-Lorem ipsum dummy text is simply dummy text for internet and web. You can change this text with your original one.   Lorem ipsum dummy text is simply dummy text for internet and web.  
-
-</p>
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>11</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-18 16:47:34]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-18 16:47:34]]></wp:post_date_gmt>
+		<wp:post_id>6</wp:post_id>
+		<wp:post_date><![CDATA[2019-06-20 03:56:39]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-06-20 03:56:39]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-us]]></wp:post_name>
@@ -356,17 +254,478 @@ Lorem ipsum dummy text is simply dummy text for internet and web. You can change
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>Home</title>
-		<link>https://demo.mantrabrain.com/november-zero/2019/06/18/home/</link>
-		<pubDate>Tue, 18 Jun 2019 16:48:13 +0000</pubDate>
+		<title>general-1</title>
+		<link>https://demo.mantrabrain.com/november-zero-pro/general-1/</link>
+		<pubDate>Thu, 20 Jun 2019 03:59:35 +0000</pubDate>
 		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero/?p=14</guid>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero-pro/wp-content/uploads/sites/7/2019/06/general-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>14</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-18 16:48:13]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-18 16:48:13]]></wp:post_date_gmt>
+		<wp:post_id>11</wp:post_id>
+		<wp:post_date><![CDATA[2019-06-20 03:59:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-06-20 03:59:35]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[general-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.mantrabrain.com/november-zero-pro/wp-content/uploads/sites/7/2019/06/general-1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/06/general-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:21:"2019/06/general-1.jpg";s:5:"sizes";a:12:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"general-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"general-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:21:"general-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:22:"general-1-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:18:"november-zero-blog";a:4:{s:4:"file";s:21:"general-1-700x460.jpg";s:5:"width";i:700;s:6:"height";i:460;s:9:"mime-type";s:10:"image/jpeg";}s:24:"november-zero-front-blog";a:4:{s:4:"file";s:21:"general-1-360x240.jpg";s:5:"width";i:360;s:6:"height";i:240;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:21:"general-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:21:"general-1-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:21:"general-1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:21:"general-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:21:"general-1-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:21:"general-1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:2:"11";s:6:"credit";s:0:"";s:6:"camera";s:20:"Canon EOS 5D Mark IV";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"73";s:3:"iso";s:3:"400";s:13:"shutter_speed";s:6:"0.0025";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>cropped-general-1.jpg</title>
+		<link>https://demo.mantrabrain.com/november-zero-pro/cropped-general-1-jpg/</link>
+		<pubDate>Thu, 20 Jun 2019 03:59:44 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero-pro/wp-content/uploads/sites/7/2019/06/cropped-general-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>12</wp:post_id>
+		<wp:post_date><![CDATA[2019-06-20 03:59:44]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-06-20 03:59:44]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cropped-general-1-jpg]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.mantrabrain.com/november-zero-pro/wp-content/uploads/sites/7/2019/06/cropped-general-1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/06/cropped-general-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1000;s:6:"height";i:250;s:4:"file";s:29:"2019/06/cropped-general-1.jpg";s:5:"sizes";a:11:{s:9:"thumbnail";a:4:{s:4:"file";s:29:"cropped-general-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:28:"cropped-general-1-300x75.jpg";s:5:"width";i:300;s:6:"height";i:75;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:29:"cropped-general-1-768x192.jpg";s:5:"width";i:768;s:6:"height";i:192;s:9:"mime-type";s:10:"image/jpeg";}s:18:"november-zero-blog";a:4:{s:4:"file";s:29:"cropped-general-1-700x250.jpg";s:5:"width";i:700;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";}s:24:"november-zero-front-blog";a:4:{s:4:"file";s:29:"cropped-general-1-360x240.jpg";s:5:"width";i:360;s:6:"height";i:240;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:29:"cropped-general-1-300x250.jpg";s:5:"width";i:300;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:29:"cropped-general-1-600x150.jpg";s:5:"width";i:600;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:29:"cropped-general-1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:29:"cropped-general-1-300x250.jpg";s:5:"width";i:300;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:29:"cropped-general-1-600x150.jpg";s:5:"width";i:600;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:29:"cropped-general-1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:17:"attachment_parent";i:11;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_november-zero-pro]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1561003188]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[november-zero-pro]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>banner-1</title>
+		<link>https://demo.mantrabrain.com/november-zero-pro/banner-1/</link>
+		<pubDate>Thu, 20 Jun 2019 04:06:50 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero-pro/wp-content/uploads/sites/7/2019/06/banner-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>16</wp:post_id>
+		<wp:post_date><![CDATA[2019-06-20 04:06:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-06-20 04:06:50]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[banner-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.mantrabrain.com/november-zero-pro/wp-content/uploads/sites/7/2019/06/banner-1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/06/banner-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:720;s:4:"file";s:20:"2019/06/banner-1.jpg";s:5:"sizes";a:12:{s:9:"thumbnail";a:4:{s:4:"file";s:20:"banner-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:20:"banner-1-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:20:"banner-1-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:21:"banner-1-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:18:"november-zero-blog";a:4:{s:4:"file";s:20:"banner-1-700x460.jpg";s:5:"width";i:700;s:6:"height";i:460;s:9:"mime-type";s:10:"image/jpeg";}s:24:"november-zero-front-blog";a:4:{s:4:"file";s:20:"banner-1-360x240.jpg";s:5:"width";i:360;s:6:"height";i:240;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:20:"banner-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:20:"banner-1-600x338.jpg";s:5:"width";i:600;s:6:"height";i:338;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:20:"banner-1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:20:"banner-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:20:"banner-1-600x338.jpg";s:5:"width";i:600;s:6:"height";i:338;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:20:"banner-1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>home_betheme_ourteam_2[1]</title>
+		<link>https://demo.mantrabrain.com/november-zero-pro/home_betheme_ourteam_21/</link>
+		<pubDate>Thu, 20 Jun 2019 07:42:30 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero-pro/wp-content/uploads/sites/7/2019/06/home_betheme_ourteam_21.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>34</wp:post_id>
+		<wp:post_date><![CDATA[2019-06-20 07:42:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-06-20 07:42:30]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home_betheme_ourteam_21]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.mantrabrain.com/november-zero-pro/wp-content/uploads/sites/7/2019/06/home_betheme_ourteam_21.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/06/home_betheme_ourteam_21.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:780;s:6:"height";i:780;s:4:"file";s:35:"2019/06/home_betheme_ourteam_21.jpg";s:5:"sizes";a:11:{s:9:"thumbnail";a:4:{s:4:"file";s:35:"home_betheme_ourteam_21-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:35:"home_betheme_ourteam_21-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:35:"home_betheme_ourteam_21-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:18:"november-zero-blog";a:4:{s:4:"file";s:35:"home_betheme_ourteam_21-700x460.jpg";s:5:"width";i:700;s:6:"height";i:460;s:9:"mime-type";s:10:"image/jpeg";}s:24:"november-zero-front-blog";a:4:{s:4:"file";s:35:"home_betheme_ourteam_21-360x240.jpg";s:5:"width";i:360;s:6:"height";i:240;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:35:"home_betheme_ourteam_21-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:35:"home_betheme_ourteam_21-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:35:"home_betheme_ourteam_21-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:35:"home_betheme_ourteam_21-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:35:"home_betheme_ourteam_21-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:35:"home_betheme_ourteam_21-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>home_betheme_ourteam_4[1]</title>
+		<link>https://demo.mantrabrain.com/november-zero-pro/home_betheme_ourteam_41/</link>
+		<pubDate>Thu, 20 Jun 2019 07:42:49 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero-pro/wp-content/uploads/sites/7/2019/06/home_betheme_ourteam_41.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>35</wp:post_id>
+		<wp:post_date><![CDATA[2019-06-20 07:42:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-06-20 07:42:49]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home_betheme_ourteam_41]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.mantrabrain.com/november-zero-pro/wp-content/uploads/sites/7/2019/06/home_betheme_ourteam_41.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/06/home_betheme_ourteam_41.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:780;s:6:"height";i:780;s:4:"file";s:35:"2019/06/home_betheme_ourteam_41.jpg";s:5:"sizes";a:11:{s:9:"thumbnail";a:4:{s:4:"file";s:35:"home_betheme_ourteam_41-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:35:"home_betheme_ourteam_41-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:35:"home_betheme_ourteam_41-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:18:"november-zero-blog";a:4:{s:4:"file";s:35:"home_betheme_ourteam_41-700x460.jpg";s:5:"width";i:700;s:6:"height";i:460;s:9:"mime-type";s:10:"image/jpeg";}s:24:"november-zero-front-blog";a:4:{s:4:"file";s:35:"home_betheme_ourteam_41-360x240.jpg";s:5:"width";i:360;s:6:"height";i:240;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:35:"home_betheme_ourteam_41-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:35:"home_betheme_ourteam_41-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:35:"home_betheme_ourteam_41-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:35:"home_betheme_ourteam_41-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:35:"home_betheme_ourteam_41-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:35:"home_betheme_ourteam_41-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>home_betheme_ourteam_3[1]</title>
+		<link>https://demo.mantrabrain.com/november-zero-pro/home_betheme_ourteam_31/</link>
+		<pubDate>Thu, 20 Jun 2019 07:43:04 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero-pro/wp-content/uploads/sites/7/2019/06/home_betheme_ourteam_31.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>36</wp:post_id>
+		<wp:post_date><![CDATA[2019-06-20 07:43:04]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-06-20 07:43:04]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home_betheme_ourteam_31]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.mantrabrain.com/november-zero-pro/wp-content/uploads/sites/7/2019/06/home_betheme_ourteam_31.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/06/home_betheme_ourteam_31.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:780;s:6:"height";i:780;s:4:"file";s:35:"2019/06/home_betheme_ourteam_31.jpg";s:5:"sizes";a:11:{s:9:"thumbnail";a:4:{s:4:"file";s:35:"home_betheme_ourteam_31-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:35:"home_betheme_ourteam_31-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:35:"home_betheme_ourteam_31-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:18:"november-zero-blog";a:4:{s:4:"file";s:35:"home_betheme_ourteam_31-700x460.jpg";s:5:"width";i:700;s:6:"height";i:460;s:9:"mime-type";s:10:"image/jpeg";}s:24:"november-zero-front-blog";a:4:{s:4:"file";s:35:"home_betheme_ourteam_31-360x240.jpg";s:5:"width";i:360;s:6:"height";i:240;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:35:"home_betheme_ourteam_31-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:35:"home_betheme_ourteam_31-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:35:"home_betheme_ourteam_31-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:35:"home_betheme_ourteam_31-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:35:"home_betheme_ourteam_31-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:35:"home_betheme_ourteam_31-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>home_betheme_ourteam_1[1]</title>
+		<link>https://demo.mantrabrain.com/november-zero-pro/home_betheme_ourteam_11/</link>
+		<pubDate>Thu, 20 Jun 2019 07:43:28 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero-pro/wp-content/uploads/sites/7/2019/06/home_betheme_ourteam_11.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>37</wp:post_id>
+		<wp:post_date><![CDATA[2019-06-20 07:43:28]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-06-20 07:43:28]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home_betheme_ourteam_11]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.mantrabrain.com/november-zero-pro/wp-content/uploads/sites/7/2019/06/home_betheme_ourteam_11.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/06/home_betheme_ourteam_11.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:780;s:6:"height";i:780;s:4:"file";s:35:"2019/06/home_betheme_ourteam_11.jpg";s:5:"sizes";a:11:{s:9:"thumbnail";a:4:{s:4:"file";s:35:"home_betheme_ourteam_11-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:35:"home_betheme_ourteam_11-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:35:"home_betheme_ourteam_11-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:18:"november-zero-blog";a:4:{s:4:"file";s:35:"home_betheme_ourteam_11-700x460.jpg";s:5:"width";i:700;s:6:"height";i:460;s:9:"mime-type";s:10:"image/jpeg";}s:24:"november-zero-front-blog";a:4:{s:4:"file";s:35:"home_betheme_ourteam_11-360x240.jpg";s:5:"width";i:360;s:6:"height";i:240;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:35:"home_betheme_ourteam_11-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:35:"home_betheme_ourteam_11-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:35:"home_betheme_ourteam_11-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:35:"home_betheme_ourteam_11-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:35:"home_betheme_ourteam_11-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:35:"home_betheme_ourteam_11-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Home</title>
+		<link>https://demo.mantrabrain.com/november-zero-pro/?p=75</link>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero-pro/?p=75</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>75</wp:post_id>
+		<wp:post_date><![CDATA[2019-06-20 08:24:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[75]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demo.mantrabrain.com/november-zero-pro/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_orphaned]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1561019082]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>https://demo.mantrabrain.com/november-zero-pro/?p=76</link>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero-pro/?p=76</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>76</wp:post_id>
+		<wp:post_date><![CDATA[2019-06-20 08:24:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[8]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_orphaned]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1561019082]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>https://demo.mantrabrain.com/november-zero-pro/?p=77</link>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero-pro/?p=77</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>77</wp:post_id>
+		<wp:post_date><![CDATA[2019-06-20 08:24:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_orphaned]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1561019082]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>https://demo.mantrabrain.com/november-zero-pro/?p=78</link>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero-pro/?p=78</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>78</wp:post_id>
+		<wp:post_date><![CDATA[2019-06-20 08:24:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_orphaned]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1561019082]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Home</title>
+		<link>https://demo.mantrabrain.com/november-zero-pro/2019/06/20/home/</link>
+		<pubDate>Thu, 20 Jun 2019 08:26:50 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero-pro/?p=86</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>86</wp:post_id>
+		<wp:post_date><![CDATA[2019-06-20 08:26:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-06-20 08:26:50]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -387,7 +746,7 @@ Lorem ipsum dummy text is simply dummy text for internet and web. You can change
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[14]]></wp:meta_value>
+		<wp:meta_value><![CDATA[86]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
@@ -407,24 +766,24 @@ Lorem ipsum dummy text is simply dummy text for internet and web. You can change
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.mantrabrain.com/november-zero/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demo.mantrabrain.com/november-zero-pro/]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title></title>
-		<link>https://demo.mantrabrain.com/november-zero/2019/06/18/15/</link>
-		<pubDate>Tue, 18 Jun 2019 16:48:13 +0000</pubDate>
+		<link>https://demo.mantrabrain.com/november-zero-pro/2019/06/20/87/</link>
+		<pubDate>Thu, 20 Jun 2019 08:26:50 +0000</pubDate>
 		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero/?p=15</guid>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero-pro/?p=87</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>15</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-18 16:48:13]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-18 16:48:13]]></wp:post_date_gmt>
+		<wp:post_id>87</wp:post_id>
+		<wp:post_date><![CDATA[2019-06-20 08:26:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-06-20 08:26:50]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[15]]></wp:post_name>
+		<wp:post_name><![CDATA[87]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>2</wp:menu_order>
@@ -442,7 +801,7 @@ Lorem ipsum dummy text is simply dummy text for internet and web. You can change
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[9]]></wp:meta_value>
+		<wp:meta_value><![CDATA[6]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
@@ -467,77 +826,22 @@ Lorem ipsum dummy text is simply dummy text for internet and web. You can change
 							</item>
 					<item>
 		<title></title>
-		<link>https://demo.mantrabrain.com/november-zero/2019/06/18/16/</link>
-		<pubDate>Tue, 18 Jun 2019 16:48:13 +0000</pubDate>
+		<link>https://demo.mantrabrain.com/november-zero-pro/2019/06/20/88/</link>
+		<pubDate>Thu, 20 Jun 2019 08:27:29 +0000</pubDate>
 		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero/?p=16</guid>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero-pro/?p=88</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>16</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-18 16:48:13]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-18 16:48:13]]></wp:post_date_gmt>
+		<wp:post_id>88</wp:post_id>
+		<wp:post_date><![CDATA[2019-06-20 08:27:29]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-06-20 08:27:29]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[16]]></wp:post_name>
+		<wp:post_name><![CDATA[88]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[11]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
-		<link>https://demo.mantrabrain.com/november-zero/2019/06/18/17/</link>
-		<pubDate>Tue, 18 Jun 2019 16:48:13 +0000</pubDate>
-		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero/?p=17</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>17</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-18 16:48:13]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-18 16:48:13]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[17]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -576,238 +880,215 @@ Lorem ipsum dummy text is simply dummy text for internet and web. You can change
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>interface-3614766_1280</title>
-		<link>https://demo.mantrabrain.com/november-zero/interface-3614766_1280/</link>
-		<pubDate>Wed, 19 Jun 2019 03:41:30 +0000</pubDate>
+		<title></title>
+		<link>https://demo.mantrabrain.com/november-zero-pro/2019/06/20/89/</link>
+		<pubDate>Thu, 20 Jun 2019 08:27:29 +0000</pubDate>
 		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero/wp-content/uploads/sites/6/2019/06/interface-3614766_1280.png</guid>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero-pro/?p=89</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>41</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-19 03:41:30]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-19 03:41:30]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[interface-3614766_1280]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.mantrabrain.com/november-zero/wp-content/uploads/sites/6/2019/06/interface-3614766_1280.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/06/interface-3614766_1280.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:854;s:4:"file";s:34:"2019/06/interface-3614766_1280.png";s:5:"sizes";a:12:{s:9:"thumbnail";a:4:{s:4:"file";s:34:"interface-3614766_1280-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:34:"interface-3614766_1280-300x200.png";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:34:"interface-3614766_1280-768x512.png";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:35:"interface-3614766_1280-1024x683.png";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:9:"image/png";}s:18:"november-zero-blog";a:4:{s:4:"file";s:34:"interface-3614766_1280-700x460.png";s:5:"width";i:700;s:6:"height";i:460;s:9:"mime-type";s:9:"image/png";}s:24:"november-zero-front-blog";a:4:{s:4:"file";s:34:"interface-3614766_1280-360x240.png";s:5:"width";i:360;s:6:"height";i:240;s:9:"mime-type";s:9:"image/png";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:34:"interface-3614766_1280-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:34:"interface-3614766_1280-600x400.png";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:9:"image/png";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:34:"interface-3614766_1280-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:12:"shop_catalog";a:4:{s:4:"file";s:34:"interface-3614766_1280-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:11:"shop_single";a:4:{s:4:"file";s:34:"interface-3614766_1280-600x400.png";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:34:"interface-3614766_1280-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Libra - new currency</title>
-		<link>https://demo.mantrabrain.com/november-zero/2019/06/19/libra-facebook-new-currency/</link>
-		<pubDate>Wed, 19 Jun 2019 03:48:06 +0000</pubDate>
-		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero/?p=48</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Lorem ipsum dummy text is simply dummy text for internet and web. You can change this text with your original one.   Lorem ipsum dummy text is simply dummy text for internet and web.  </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p> Lorem ipsum dummy text is simply dummy text for internet and web. You can change this text with your original one.   Lorem ipsum dummy text is simply dummy text for internet and web.   </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>
-
-Lorem ipsum dummy text is simply dummy text for internet and web. You can change this text with your original one.   Lorem ipsum dummy text is simply dummy text for internet and web.  
-
-</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p> Lorem ipsum dummy text is simply dummy text for internet and web. You can change this text with your original one.   Lorem ipsum dummy text is simply dummy text for internet and web.   </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>
-
-Lorem ipsum dummy text is simply dummy text for internet and web. You can change this text with your original one.   Lorem ipsum dummy text is simply dummy text for internet and web.  
-
-</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>48</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-19 03:48:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-19 03:48:06]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[libra-facebook-new-currency]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="technology"><![CDATA[Technology]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[49]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>robot-3010309_960_720[1]</title>
-		<link>https://demo.mantrabrain.com/november-zero/2019/06/19/libra-facebook-new-currency/robot-3010309_960_7201/</link>
-		<pubDate>Wed, 19 Jun 2019 03:47:58 +0000</pubDate>
-		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero/wp-content/uploads/sites/6/2019/06/robot-3010309_960_7201.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>49</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-19 03:47:58]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-19 03:47:58]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[robot-3010309_960_7201]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>48</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.mantrabrain.com/november-zero/wp-content/uploads/sites/6/2019/06/robot-3010309_960_7201.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/06/robot-3010309_960_7201.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:960;s:6:"height";i:640;s:4:"file";s:34:"2019/06/robot-3010309_960_7201.jpg";s:5:"sizes";a:11:{s:9:"thumbnail";a:4:{s:4:"file";s:34:"robot-3010309_960_7201-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:34:"robot-3010309_960_7201-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:34:"robot-3010309_960_7201-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:18:"november-zero-blog";a:4:{s:4:"file";s:34:"robot-3010309_960_7201-700x460.jpg";s:5:"width";i:700;s:6:"height";i:460;s:9:"mime-type";s:10:"image/jpeg";}s:24:"november-zero-front-blog";a:4:{s:4:"file";s:34:"robot-3010309_960_7201-360x240.jpg";s:5:"width";i:360;s:6:"height";i:240;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:34:"robot-3010309_960_7201-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:34:"robot-3010309_960_7201-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:34:"robot-3010309_960_7201-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:34:"robot-3010309_960_7201-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:34:"robot-3010309_960_7201-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:34:"robot-3010309_960_7201-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Modern Business</title>
-		<link>https://demo.mantrabrain.com/november-zero/2019/06/19/modern-business/</link>
-		<pubDate>Wed, 19 Jun 2019 03:49:31 +0000</pubDate>
-		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero/?p=51</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p> Lorem ipsum dummy text is simply dummy text for internet and web. You can change this text with your original one. Lorem ipsum dummy text is simply dummy text for internet and web.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>
-
-Lorem ipsum dummy text is simply dummy text for internet and web. You can change this text with your original one.   Lorem ipsum dummy text is simply dummy text for internet and web.  
-
-</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p> Lorem ipsum dummy text is simply dummy text for internet and web. You can change this text with your original one.   Lorem ipsum dummy text is simply dummy text for internet and web.   </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p> Lorem ipsum dummy text is simply dummy text for internet and web. You can change this text with your original one.   Lorem ipsum dummy text is simply dummy text for internet and web.   </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>
-
-Lorem ipsum dummy text is simply dummy text for internet and web. You can change this text with your original one.   Lorem ipsum dummy text is simply dummy text for internet and web.  
-
-</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>51</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-19 03:49:31]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-19 03:49:31]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[modern-business]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="business"><![CDATA[Business]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[52]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>home-office-336373_960_720[1]</title>
-		<link>https://demo.mantrabrain.com/november-zero/2019/06/19/modern-business/home-office-336373_960_7201/</link>
-		<pubDate>Wed, 19 Jun 2019 03:49:16 +0000</pubDate>
-		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero/wp-content/uploads/sites/6/2019/06/home-office-336373_960_7201.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>52</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-19 03:49:16]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-19 03:49:16]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home-office-336373_960_7201]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>51</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.mantrabrain.com/november-zero/wp-content/uploads/sites/6/2019/06/home-office-336373_960_7201.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/06/home-office-336373_960_7201.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:960;s:6:"height";i:640;s:4:"file";s:39:"2019/06/home-office-336373_960_7201.jpg";s:5:"sizes";a:11:{s:9:"thumbnail";a:4:{s:4:"file";s:39:"home-office-336373_960_7201-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:39:"home-office-336373_960_7201-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:39:"home-office-336373_960_7201-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:18:"november-zero-blog";a:4:{s:4:"file";s:39:"home-office-336373_960_7201-700x460.jpg";s:5:"width";i:700;s:6:"height";i:460;s:9:"mime-type";s:10:"image/jpeg";}s:24:"november-zero-front-blog";a:4:{s:4:"file";s:39:"home-office-336373_960_7201-360x240.jpg";s:5:"width";i:360;s:6:"height";i:240;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:39:"home-office-336373_960_7201-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:39:"home-office-336373_960_7201-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:39:"home-office-336373_960_7201-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:39:"home-office-336373_960_7201-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:39:"home-office-336373_960_7201-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:39:"home-office-336373_960_7201-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Contact Form</title>
-		<link>https://demo.mantrabrain.com/november-zero/contact-form/</link>
-		<pubDate>Wed, 19 Jun 2019 03:57:48 +0000</pubDate>
-		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero/?page_id=63</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:shortcode -->
-[contact-form-7 id="65" title="Contact form 1"]
-<!-- /wp:shortcode -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>63</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-19 03:57:48]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-19 03:57:48]]></wp:post_date_gmt>
+		<wp:post_id>89</wp:post_id>
+		<wp:post_date><![CDATA[2019-06-20 08:27:29]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-06-20 08:27:29]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form]]></wp:post_name>
+		<wp:post_name><![CDATA[89]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[84]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>https://demo.mantrabrain.com/november-zero-pro/2019/06/20/90/</link>
+		<pubDate>Thu, 20 Jun 2019 08:27:29 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero-pro/?p=90</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>90</wp:post_id>
+		<wp:post_date><![CDATA[2019-06-20 08:27:29]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-06-20 08:27:29]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[90]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[81]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Buy Now</title>
+		<link>https://demo.mantrabrain.com/november-zero-pro/2019/06/20/buy-now/</link>
+		<pubDate>Thu, 20 Jun 2019 08:27:41 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero-pro/?p=91</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>91</wp:post_id>
+		<wp:post_date><![CDATA[2019-06-20 08:27:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-06-20 08:27:41]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[buy-now]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>6</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[91]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://mantrabrain.com/checkout?edd_action=add_to_cart&download_id=935]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Hello world!</title>
+		<link>https://demo.mantrabrain.com/november-zero-pro/2019/06/20/hello-world/</link>
+		<pubDate>Thu, 20 Jun 2019 03:54:31 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero-pro/?p=1</guid>
+		<description></description>
+		<content:encoded><![CDATA[Welcome to <a href="http://demo.mantrabrain.com/">MantraBrain Demo</a>. This is your first post. Edit or delete it, then start blogging!]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1</wp:post_id>
+		<wp:post_date><![CDATA[2019-06-20 03:54:31]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-06-20 03:54:31]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[hello-world]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:comment>
+			<wp:comment_id>1</wp:comment_id>
+			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
+			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2019-06-20 03:54:31]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2019-06-20 03:54:31]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hi, this is a comment.
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
+Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
 					<item>
 		<title>Contact form 1</title>
-		<link>https://demo.mantrabrain.com/november-zero/?post_type=wpcf7_contact_form&#038;p=65</link>
-		<pubDate>Wed, 19 Jun 2019 03:58:31 +0000</pubDate>
+		<link>https://demo.mantrabrain.com/november-zero-pro/?post_type=wpcf7_contact_form&#038;p=5</link>
+		<pubDate>Thu, 20 Jun 2019 03:55:11 +0000</pubDate>
 		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero/?post_type=wpcf7_contact_form&#038;p=65</guid>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero-pro/?post_type=wpcf7_contact_form&#038;p=5</guid>
 		<description></description>
 		<content:encoded><![CDATA[<label> Your Name (required)
     [text* your-name] </label>
@@ -831,7 +1112,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on November Zero (https://demo.mantrabrain.com/november-zero)
+This e-mail was sent from a contact form on November Zero (https://demo.mantrabrain.com/november-zero-pro)
 mantrabrain@gmail.com
 Reply-To: [your-email]
 
@@ -844,7 +1125,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on November Zero (https://demo.mantrabrain.com/november-zero)
+This e-mail was sent from a contact form on November Zero (https://demo.mantrabrain.com/november-zero-pro)
 [your-email]
 Reply-To: mantrabrain@gmail.com
 
@@ -859,9 +1140,9 @@ The field is required.
 The field is too long.
 The field is too short.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>65</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-19 03:58:31]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-19 03:58:31]]></wp:post_date_gmt>
+		<wp:post_id>5</wp:post_id>
+		<wp:post_date><![CDATA[2019-06-20 03:55:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-06-20 03:55:11]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
@@ -889,22 +1170,22 @@ The field is too short.]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:30:"November Zero "[your-subject]"";s:6:"sender";s:46:"November Zero <wordpress@demo.mantrabrain.com>";s:4:"body";s:194:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:30:"November Zero "[your-subject]"";s:6:"sender";s:46:"November Zero <wordpress@demo.mantrabrain.com>";s:4:"body";s:198:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on November Zero (https://demo.mantrabrain.com/november-zero)";s:9:"recipient";s:21:"mantrabrain@gmail.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on November Zero (https://demo.mantrabrain.com/november-zero-pro)";s:9:"recipient";s:21:"mantrabrain@gmail.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:30:"November Zero "[your-subject]"";s:6:"sender";s:46:"November Zero <wordpress@demo.mantrabrain.com>";s:4:"body";s:136:"Message Body:
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:30:"November Zero "[your-subject]"";s:6:"sender";s:46:"November Zero <wordpress@demo.mantrabrain.com>";s:4:"body";s:140:"Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on November Zero (https://demo.mantrabrain.com/november-zero)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:31:"Reply-To: mantrabrain@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on November Zero (https://demo.mantrabrain.com/november-zero-pro)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:31:"Reply-To: mantrabrain@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
@@ -920,17 +1201,41 @@ This e-mail was sent from a contact form on November Zero (https://demo.mantrabr
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home Page</title>
-		<link>https://demo.mantrabrain.com/november-zero/</link>
-		<pubDate>Wed, 19 Jun 2019 03:59:48 +0000</pubDate>
+		<title>Contact Form</title>
+		<link>https://demo.mantrabrain.com/november-zero-pro/contact-form/</link>
+		<pubDate>Thu, 20 Jun 2019 03:57:02 +0000</pubDate>
 		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero/?page_id=68</guid>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero-pro/?page_id=8</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:shortcode -->
+[contact-form-7 id="5" title="Contact form 1"]
+<!-- /wp:shortcode -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>8</wp:post_id>
+		<wp:post_date><![CDATA[2019-06-20 03:57:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-06-20 03:57:02]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact-form]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title>Home Page</title>
+		<link>https://demo.mantrabrain.com/november-zero-pro/</link>
+		<pubDate>Thu, 20 Jun 2019 08:25:29 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero-pro/?page_id=79</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>68</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-19 03:59:48]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-19 03:59:48]]></wp:post_date_gmt>
+		<wp:post_id>79</wp:post_id>
+		<wp:post_date><![CDATA[2019-06-20 08:25:29]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-06-20 08:25:29]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-page]]></wp:post_name>
@@ -943,16 +1248,16 @@ This e-mail was sent from a contact form on November Zero (https://demo.mantrabr
 														</item>
 					<item>
 		<title>Blog</title>
-		<link>https://demo.mantrabrain.com/november-zero/blog/</link>
-		<pubDate>Wed, 19 Jun 2019 04:00:01 +0000</pubDate>
+		<link>https://demo.mantrabrain.com/november-zero-pro/blog/</link>
+		<pubDate>Thu, 20 Jun 2019 08:25:40 +0000</pubDate>
 		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero/?page_id=70</guid>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero-pro/?page_id=81</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>70</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-19 04:00:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-19 04:00:01]]></wp:post_date_gmt>
+		<wp:post_id>81</wp:post_id>
+		<wp:post_date><![CDATA[2019-06-20 08:25:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-06-20 08:25:40]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>
@@ -964,60 +1269,27 @@ This e-mail was sent from a contact form on November Zero (https://demo.mantrabr
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title></title>
-		<link>https://demo.mantrabrain.com/november-zero/2019/06/19/73/</link>
-		<pubDate>Wed, 19 Jun 2019 04:05:09 +0000</pubDate>
+		<title>About Us</title>
+		<link>https://demo.mantrabrain.com/november-zero-pro/about-us/</link>
+		<pubDate>Thu, 20 Jun 2019 08:26:31 +0000</pubDate>
 		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero/?p=73</guid>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/november-zero-pro/?page_id=84</guid>
 		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>73</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-19 04:05:09]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-19 04:05:09]]></wp:post_date_gmt>
+		<wp:post_id>84</wp:post_id>
+		<wp:post_date><![CDATA[2019-06-20 08:26:31]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-06-20 08:26:31]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[73]]></wp:post_name>
+		<wp:post_name><![CDATA[about-us]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[70]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
+														</item>
 				</channel>
 </rss>
 	
