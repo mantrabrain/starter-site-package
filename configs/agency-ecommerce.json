@@ -36,10 +36,12 @@
       },
       "widgets_data_update": {
         "dropdown_categories": {
-          "category": {
-            "mantranews_featured_posts_vertical_widget": {
-              "3": {
-                "category": "Fashion"
+          "product_cat": {
+            "agency-ecommerce-featured-slider_widget": {
+              "1": {
+                "left_product_category": [
+                  "Hot Dress"
+                ]
               },
               "4": {
                 "category": "Sports"
