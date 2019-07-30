@@ -35,7 +35,23 @@
         "page_on_front": "Home Page"
       },
       "widgets_data_update": {
-        
+        "dropdown_categories": {
+          "product_cat": {
+            "agency-ecommerce-featured-slider_widget": {
+              "1": {
+                "left_product_category": [
+                  "Hot Dress"
+                ]
+              },
+              "4": {
+                "category": "Sports"
+              },
+              "5": {
+                "category": "General"
+              }
+            }
+          }
+        }
       },
       "customizer_data_update": {
         "nav_menu_locations": {
