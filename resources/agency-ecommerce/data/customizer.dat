@@ -1,0 +1,11 @@
+a:4:{s:8:"template";s:16:"agency-ecommerce";s:4:"mods";a:4:{i:0;b:0;s:18:"nav_menu_locations";a:2:{s:12:"primary-menu";i:54;s:12:"special-menu";i:55;}s:18:"custom_css_post_id";i:130;s:30:"agency_ecommerce_theme_options";a:11:{s:27:"breadcrumb_background_image";s:92:"https://demo.mantrabrain.com/agency-ecommerce/wp-content/uploads/sites/5/2019/07/dark-bg.jpg";s:37:"override_background_by_featured_image";b:0;s:21:"enable_sticky_sidebar";b:1;s:13:"show_wishlist";b:1;s:16:"show_detail_icon";b:1;s:19:"enable_gallery_zoom";b:1;s:14:"product_number";i:3;s:13:"primary_color";s:7:"#0188cc";s:11:"top_address";s:14:"7th Avenue, US";s:9:"top_phone";s:8:"38388383";s:9:"top_email";s:21:"mantrabrain@gmail.com";}}s:7:"options";a:20:{s:22:"woocommerce_demo_store";s:2:"no";s:29:"woocommerce_demo_store_notice";s:79:"This is a demo store for testing purposes &mdash; no orders shall be fulfilled.";s:29:"woocommerce_shop_page_display";s:0:"";s:36:"woocommerce_category_archive_display";s:0:"";s:35:"woocommerce_default_catalog_orderby";s:10:"menu_order";s:30:"woocommerce_single_image_width";s:3:"600";s:33:"woocommerce_thumbnail_image_width";s:3:"300";s:30:"woocommerce_thumbnail_cropping";s:3:"1:1";s:43:"woocommerce_thumbnail_cropping_custom_width";s:1:"4";s:44:"woocommerce_thumbnail_cropping_custom_height";s:1:"3";s:34:"woocommerce_checkout_company_field";s:8:"optional";s:36:"woocommerce_checkout_address_2_field";s:8:"optional";s:32:"woocommerce_checkout_phone_field";s:8:"required";s:46:"woocommerce_checkout_highlight_required_fields";s:3:"yes";s:55:"woocommerce_checkout_terms_and_conditions_checkbox_text";s:44:"I have read and agree to the website [terms]";s:40:"woocommerce_checkout_privacy_policy_text";s:161:"Your personal data will be used to process your order, support your experience throughout this website, and for other purposes described in our [privacy_policy].";s:26:"wp_page_for_privacy_policy";s:1:"0";s:25:"woocommerce_terms_page_id";s:0:"";s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:253:".homepage-fullwidth-widget-area .widget{
+	margin-bottom:0!important;
+	margin-top:0;
+}
+
+.homepage-fullwidth-widget-area .widget:last-child{
+	margin-bottom:10px!important;
+}
+.homepage-fullwidth-widget-area .widget:first-child{
+	margin-top:5px!important;
+}";}
