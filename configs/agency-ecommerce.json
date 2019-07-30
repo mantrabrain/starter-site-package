@@ -1,0 +1,105 @@
+{
+  "name": "Agency Ecommerce",
+  "slug": "agency-ecommerce",
+  "version": "2.0.4",
+  "homepage": "https://mantrabrain.com/downloads/agency-ecommerce-wordpress-woocommerce-theme/",
+  "categories": {
+    "all": "All",
+    "ecommerce": "Ecommerce",
+    "blog": "Blog",
+    "others": "Others"
+  },
+  "pagebuilders": {
+    "default": "Default",
+    "elementor": "Elementor"
+  },
+  "demos": {
+    "agency-ecommerce-free": {
+      "title": "Agency Ecommerce",
+      "preview": "https://demo.mantrabrain.com/agency-ecommerce/",
+      "description": "Perfect demo for your ecommerce store.",
+      "template": [
+        "agency-ecommerce",
+        "agency-ecommerce-pro"
+      ],
+      "category": [
+        "all",
+        "ecommerce",
+        "blog"
+      ],
+      "pagebuilder": [
+        "default"
+      ],
+      "core_options": {
+        "blogname": "Agency Ecommerce",
+        "page_on_front": "Home Page"
+      },
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "category": {
+            "mantranews_featured_posts_vertical_widget": {
+              "3": {
+                "category": "Fashion"
+              },
+              "4": {
+                "category": "Sports"
+              },
+              "5": {
+                "category": "General"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main Menu"
+        }
+      }
+    },
+    "agency-ecommerce-pro": {
+      "isPro": true,
+      "title": "Agency Ecommerce Pro",
+      "preview": "https://demo.mantrabrain.com/agency-ecommerce-pro/",
+      "description": "The premium version of the default agency ecommerce demo for your online store.",
+      "template": [
+        "agency-ecommerce-pro"
+      ],
+      "category": [
+        "all",
+        "ecommerce",
+        "blog"
+      ],
+      "pagebuilder": [
+        "default"
+      ],
+      "core_options": {
+        "blogname": "Agency Ecommerce Pro",
+        "page_on_front": "Home Page"
+      },
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "category": {
+            "mantranews_featured_posts_vertical_widget": {
+              "3": {
+                "category": "Fashion"
+              },
+              "4": {
+                "category": "Sports"
+              },
+              "5": {
+                "category": "General"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main Menu",
+          "top-header": "Top Header Menu"
+        }
+      }
+    }
+  }
+}
