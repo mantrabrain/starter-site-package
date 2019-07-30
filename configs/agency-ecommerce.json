@@ -53,7 +53,9 @@
       },
       "customizer_data_update": {
         "nav_menu_locations": {
-          "primary": "Main Menu"
+          "primary-menu": "Main Menu",
+          "top-header-menu": "Top Header Menu",
+          "special-menu": "Special Menu"
         }
       }
     },
